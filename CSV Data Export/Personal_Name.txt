@@ -1,4 +1,4 @@
-Record ID,Personal name,Gender,Ethnicity,Roman onomastics,LPGN date,Parissaki date,Source,Author or Creator >
+Record ID,Personal name,Gender,Ethnicity,Roman onomastics,LPGN date,Parissaki date,Source check,Author or Creator >
 16149,"(emperor Antoneinus)","Male","Roman",,,,"Epigraphic corpus","2"
 16136,"(emperor Commodus)","Male","Roman",,,,"Epigraphic corpus","2"
 8016,"(emperor Hadrianus)","Male","Roman",,,,"Epigraphic corpus","2"
@@ -300,6 +300,7 @@ Record ID,Personal name,Gender,Ethnicity,Roman onomastics,LPGN date,Parissaki da
 188,"Arkesilaos","Female","Greek",,,,"Epigraphic corpus","2"
 14369,"Arkesilas","Male","Greek",,,,"LGPN","2"
 189,"Arkesile","Female","Greek",,,,"Epigraphic corpus","2"
+16689,"Armoulene","Female","Uncertain",,,,,"2"
 15944,"Arn[aios]","Ambiguous","Greek",,,,"Epigraphic corpus","2"
 14285,"Aromatin","Male","Greek",,,,"LGPN","2"
 16438,"Aroto[s?]","Male","Uncertain",,,,,"2"
@@ -2321,6 +2322,7 @@ Record ID,Personal name,Gender,Ethnicity,Roman onomastics,LPGN date,Parissaki da
 1523,"Skythikos","Male","Greek",,,,"Epigraphic corpus","2"
 1524,"Skythodokos","Male","Thracian",,,,"Dana Onomasticon 2014","2"
 1525,"Smaragdos","Male","Greek",,,,"Epigraphic corpus","2"
+16691,"Sminther","Male","Greek",,,,"LGPN","2"
 1527,"Sofrosyne","Female","Greek",,,,"Epigraphic corpus","2"
 15755,"Soizios","Male","Uncertain",,,,,"2"
 1528,"Sokles","Male","Greek",,,,"Epigraphic corpus","2"
