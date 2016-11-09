@@ -69,6 +69,7 @@ Formulae text,
 FormulaicCategory text,
 Origin text,
 ShortSummary text,
+Characteristics text,
 AuthorOrCreator text
 );
 
