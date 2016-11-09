@@ -1,0 +1,38 @@
+Record ID,Honorofic keyword,Origin,Honorific category,Short summary,Author or Creator >
+1973,"Agathos aner",Greek,Reasons,"Personal qualities of honoured person",2
+2631,"Aleitourgos|Aneisforos",Greek,Privileges,"without tax duty",2
+6710,"Andrias",Greek,Display,"image of a man, statue",2
+2331,"Arete",Greek,Reasons,"goodness, quality",2
+1977,"Asylia",Greek,Privileges,"inviolability of person",2
+1978,"Ateleia",Greek,Privileges,"exemption from public burdens",2
+2322,"Efodos",Greek,Privileges,"free entry to boule etc.",2
+6254,"Eikon",Greek,Display,"statue",2
+1981,"Eisagoge and exagoge",Greek,Privileges,"right to import and export freely",2
+1982,"Eisplous and ekplous",Greek,Privileges,"right to import and export freely",2
+1980,"Ekona stesai",Greek,Privileges,"erect statue to honorand",2
+1983,"Enktesis",Greek,Privileges,"right to purchase land",2
+2310,"Epainesai",Greek,Other,"to praise",2
+1984,"Epainos",Greek,Other,"praise",2
+2316,"Euergesia",Greek,Reasons,"kindness towards someone",2
+1987,"Euergetes",Greek,Reasons,"benefactor",2
+2311,"Eunoia",Greek,Reasons,"good will",2
+1988,"Eunous",Greek,Reasons,"with a good will",2
+2327,"Exagoge sitou",Greek,Privileges,"free meal",2
+1990,"Filotimia",Greek,Reasons,"rivalry for honour",2
+3000,"Filotimos",Greek,Reasons,"loving honour or distinction, ambitious",2
+1993,"Isoteleia",Greek,Privileges,"equality in taxes with citizens",2
+2308,"Kalos kai agathos",Greek,Reasons,"honorific formula, the beautiful and the good",2
+9600,"Panegyris",Greek,Display,"celebration, general or national assembly",2
+15941,"Politeia",Greek,Privileges,"grant of citizenship",2
+1995,"Prodikia",Greek,Privileges,"priority in judicial proceedings",2
+1996,"Proedria",Greek,Privileges,"right of front seats at public games",2
+2427,"Pronoia",Greek,Reasons,"good will",2
+1998,"Prosodos pros ten boulen/demon/polin",Greek,Privileges,"free entry to the council/assembly/city",2
+1999,"Prothymos",Greek,Reasons,"eager, willing",2
+2000,"Proxenia",Greek,Reasons,"proxeny",2
+2001,"Proxenos",Greek,Reasons,"public friend",2
+11989,"Soter",Greek,Reasons,"""saviour""",1792
+2003,"Stefanos",Greek,Display,"crown",2
+2004,"Stefanosai",Greek,Display,"to crown",2
+2321,"Time",Greek,Other,"honour",2
+11899,"Timein",Greek,Other,"to honour",1792

@@ -1,0 +1,138 @@
+Record ID,Religious keywords,Origin,Religious Category,Short summary,Author or Creator >
+3745,"Acheron",Greek,Deity,"one of the five rivers of the Greek underworld",2
+2691,"Agonothetes",Greek,Religious Practice: Role,"president of sacred games",2
+9308,"Alfios",Greek,Deity,"heros of the river Alpheus",2
+2682,"Anoubis",,Deity,"Egyptian god",2
+1858,"Aphrodite",Greek,Deity,"Aphrodite is the Greek goddess of love, beauty, pleasure, and procreation",2
+1860,"Apollo",Greek,Deity,"Apollon",2
+8292,"archibassara",Greek,Religious Practice: Role,"leader of Bacchanals",2
+3089,"archiereia",Greek,Religious Practice: Role,"the office of the arch-priest, chief-priest",1792
+1862,"archiereus",Greek,Religious Practice: Role,"arch-priest, chief-priest",2
+8290,"archimystes",Greek,Religious Practice: Role,"chief of the mystae",2
+1861,"Ares",Greek,Deity,"God of war and warfare",2
+1863,"Artemis",Greek,Deity,"goddess of chastity, virginity, the hunt, the moon, and the natural environment",2
+6225,"Asklepeion",Greek,Religious Practice: Place,"temple of Asclepius",2
+1864,"Asklepius",Greek,Deity,"god of medicine",2
+1865,"athanatos",Greek,Epithet,"eternal, undying",2
+1866,"Athena",Greek,Deity,"goddess of wisdom, courage, inspiration, civilization, law and justice",2
+12151,"bakcheion",Greek,Religious Practice: Role,"congregation of Bacchic worshippers; Bacchic revelry",1792
+2479,"Bakchos",Greek,Deity,"epithet of Dionysos",2
+1868,"bomos",Greek,Religious Practice: Place,"an altar",2
+14188,"Bosporia",Greek,Religious Practice: Activity,"Bosporian festival",2
+6799,"Charites",Greek,Deity,"Graces, were three goddesses of grace, beauty, adornment, joy, mirth, festivity, dance and song",2
+12908,"christianos",,Religious Practice: Role,"Christian",1792
+3966,"Christos",,Deity,"Jesus Christ",2
+12868,"daimon",Greek,Deity,"god, goddess",1792
+1869,"Demeter",Greek,Deity,"goddess of the harvest and agriculture",2
+7410,"Dikaios",Greek,Epithet,"The name of a god (in Anchilaos); observant of duty to gods and men, righteous",2
+2303,"Dionysia",Greek,Religious Practice: Activity,"festival of Dionysus",2
+2593,"Dionysion",Greek,Religious Practice: Place,"temple of Dionysos",2
+1870,"Dionysus",Greek,Deity,"god of the grape harvest, winemaking and wine, of ritual madness, fertility, theatre and religious ecstasy",2
+1871,"Dioskuroi",Greek,Deity,"twin demi-gods",2
+3340,"Dis Manibus",Roman,Deity,"""for the ghost-gods""",2
+3123,"Erato",Greek,Deity,"The Muse of lyric poetry, especially love and erotic poetry.",2
+1872,"Eros",Greek,Deity,"god of love",2
+9152,"Eumarides",Greek,Deity,"a local hero in Apollonia",1792
+10495,"Gaia",Greek,Deity,"Greek goddess of the Earth",1792
+8098,"Ge",Greek,Deity,"The personified Earth",2
+1873,"Great Mother",Greek,Deity,"Megale Meter",2
+2732,"Hades",Greek,Deity,"the god of the underworld",2
+2683,"Harpokrates",Greek,Deity,"the god of silence, secrets and confidentiality",2
+13356,"Hecate",Greek,Deity,"the goddess of magic, witchcraft, the night, moon, ghosts and necromancy",1793
+2697,"Helios",Greek,Deity,"god of sun",2
+1874,"Hephaestus",Greek,Deity,"god of blacksmiths, craftsmen, artisans, sculptors, metals, metallurgy, fire and volcanoes",2
+1875,"Hera",Greek,Deity,"female deity, mother goddess",2
+1876,"Heracles",Greek,Deity,"divine hero, son of Zeus",2
+1877,"Hermes",Greek,Deity,"Greek God of Trade, Eloquence and Messenger of the Gods",2
+16454,"Heroon|Heroion",Greek,Religious Practice: Place,"A shrine belonging to heroos",2
+1878,"heros",Greek,Deity,"demi-god, a deceased",2
+1879,"Hestia",Greek,Deity,"virgin goddess of the hearth, architecture, and the right ordering of domesticity, the family, and the state",2
+2325,"hierea",Greek,Religious Practice: Activity,"festivities, religious festival",2
+3624,"hiereia",Greek,Religious Practice: Role,"priestess",1792
+11534,"hiereion",Greek,Religious Practice: Role,"victim, animal for sacrifice, offering for the dead",1792
+1880,"hiereus",Greek,Religious Practice: Role,"a priest",2
+4304,"Hierokeryx",Greek,Religious Practice: Role,"herald or attendant at a sacrifice",2
+1881,"hieron",Greek,Religious Practice: Place,"sanctuary / shrine",2
+4303,"Hieroneikes",Greek,Religious Practice: Role,"winner of religious games",2
+12149,"Homonoia",Roman,Deity,"oneness of mind, unanimity, concord; Concordia",1792
+3355,"Horai",Greek,Deity,"the goddesses of the seasons and the natural portions of time",2
+7409,"Hosios",Greek,Deity,"The name of a god (in Anchilaos)",1792
+3129,"Hygeia",Greek,Deity,"the goddess/personification of health",1793
+10954,"Hypnos",Greek,Deity,"the god of sleep",1793
+1882,"Isis",,Deity,"Egyptian deity, popular in Roman army",2
+2594,"Kapitolion",Roman,Religious Practice: Place,"temple of Jupiter Capitolinus",2
+3162,"Karabasmos",Thracian,Epithet,"local hero in Pontos or epithet of Apollo",1792
+3744,"Kekrops",Greek,Deity,"mythical king of Attica",2
+8291,"kistoforos",Greek,Religious Practice: Role,"one, who carries a basket",2
+16676,"Korre",Greek,Deity,"a maiden",2
+15949,"Kybele",Greek,Deity,"Near Eastern deity, adopted by Greek religion",2
+3098,"kyria",Greek,Deity,"female goddess",1793
+1883,"kyrios",Greek,Deity,"a lord, male god",2
+3159,"Manimazos",Thracian,Deity,"local hero in Odessos",1792
+3309,"Meter (Cybele)",Greek,Deity,"female goddess",2
+1885,"Meter theon/Mother of Gods",Greek,Deity,"female deity",2
+3054,"Mithra",,Deity,"Near Eastern deity, favourite amongst Roman soldiers",1793
+1884,"Moirai",Greek,Deity,"the goddesses of fate",2
+2740,"Musai /Mousai",Greek,Deity,"Muses",2
+5959,"Myrsines",Uncertain,Deity,"local hero",2
+6713,"Mystai",Greek,Religious Practice: Role,"participants of mysteries",2
+1886,"naos",Greek,Religious Practice: Place,"a temple building",2
+2693,"Neikonemesis",Greek,Deity,"Nemesis of victory",2
+1887,"Nemesis",Greek,Deity,"goddess of victory, avenger",2
+14186,"Nereidai",Greek,Deity,"sea nymphs",2
+14185,"Nereus",Greek,Deity,"see male deity",2
+11239,"Nike",Greek,Deity,"Godess of the victory",1792
+6800,"Nymfai",Greek,Deity,"minor female nature deity typically associated with a particular location or landform",2
+10955,"Oneiros",Greek,Deity,"dream personified",1793
+6038,"Ordianos",Uncertain,Epithet,"a local hero",2
+6969,"Orpheus",Greek,Deity,"was a legendary musician, poet, and prophet in ancient Greek religion and myth",2
+3127,"Paian",Greek,Deity,"the Greek physician of the gods",1793
+13808,"Panakia",Uncertain,Deity,"local female deity",1793
+9655,"Peierides",Greek,Epithet,"Mouses of Pieria",1793
+6049,"Perkos",Uncertain,Deity,"a local hero",1792
+3555,"Phoebus (Foibos)",Greek,Deity,"Apollon Foibos",2
+8188,"Phosphorion",Greek,Religious Practice: Place,"sanctuary of Phosphoros",2
+3321,"Phosphoros",Greek,Deity,"epithet of gods (Hekate, Artemis...)",2
+7215,"Plouto",Greek,Deity,"god of underworld",2
+1890,"pompe",Greek,Religious Practice: Activity,"procession",2
+2580,"pontarches",Roman,Religious Practice: Role,"the highest priest of the cult of Emperor in the cities of the Western Pontus",1792
+1891,"Poseidon",Greek,Deity,"God of the Sea",2
+5970,"Proastios",Greek,Epithet,"local hero epithet",2
+6086,"Propylaios",Greek,Epithet,"a local hero",1792
+2300,"Pythia",Greek,Religious Practice: Activity,"religious festival of Apollo Pythios in Delphi",2
+2967,"Rhome|Rome",Roman,Deity,"godess Roma",1792
+9031,"Sabazios",Greek,Deity,"Phrygian deity adopted by Greeks",2
+2786,"Samothrakion",Greek,Epithet,"Gods of Samothrace",2
+1892,"Sarapis / Serapis",,Deity,"Egyptian deity",2
+2698,"Selene",Greek,Deity,"goddess of moon",2
+4231,"Semele",Greek,Deity,"mortal mother of Dionysus, Phrygian deity",1793
+12158,"Sibylle",Roman,Religious Practice: Role,"mantis, prophet",1792
+7185,"Symposiastai",Greek,Religious Practice: Role,"participants of symposion",2
+6802,"Symposion",Greek,Religious Practice: Activity,"Greek social gathering with drinking and feasting",2
+2347,"Synmystai",Greek,Religious Practice: Role,"fellow participants of mysteries",2
+1893,"tafos",Greek,Religious Practice: Place,"a grave",2
+6084,"Tasages",Uncertain,Epithet,"a local hero",1792
+3128,"Telesphoros",Greek,Deity,"""the accomplisher"" or ""bringer of completion"", healing deity",1793
+1894,"thea",Greek,Deity,"a goddess",2
+5045,"Thea Syria",,Deity,"Syrian goddess",1792
+2328,"Theatron",Greek,Religious Practice: Place,"theatre",2
+5075,"Themis",Greek,Deity," the personification of divine order, law, natural law and custom",1793
+14193,"Theoi apotropaioi kai alexikakoi",Greek,Deity,"protective deities",2
+12683,"Theoi epekooi",Greek,Deity,"listening deities",2
+6497,"theoi katachthoneioi",Greek,Deity,"underworld deities",1793
+8853,"Theoi Katoikidioi",Greek,Deity,"deities living in or about a house, domestic",2
+9811,"Theoi Olympioi",Greek,Deity,"Olympian deities",1792
+1895,"Theoi Samothrakioi",Greek,Deity,"Samothraceans gods",2
+2296,"theoroi",Greek,Religious Practice: Role,"religious officials",2
+1896,"theos",Greek,Deity,"a god",2
+1897,"Theos megalos",Greek,Deity,"Great God",2
+2629,"Therapeutai",Greek,Religious Practice: Role,"one who serves the gods, worshipper",2
+14328,"Thiasotes",Greek,Religious Practice: Role,"member of thiasos",2
+1899,"thysia",Greek,Religious Practice: Activity,"a sacrifice",2
+11586,"Thysiastai",Greek,Religious Practice: Role,"a sacrificer",2
+2703,"Triptolemos",Greek,Deity,"male deity connected with the cult of Demeter",2
+12042,"Tychaion",Greek,Religious Practice: Place,"temple of goddess Tyche",1792
+1900,"Tyche",Greek,Deity,"deity of fortune",2
+11536,"xoanon",Greek,Religious Practice: Place,"ritual statue",1792
+2652,"Zakoros",Greek,Religious Practice: Role,"attendant in a temple",2
+1901,"Zeus",Greek,Deity,"male deity, the father, the ruler",2

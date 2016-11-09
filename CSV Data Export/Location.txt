@@ -1,0 +1,679 @@
+Record ID,Modern location,Ancient site,Ancient site - region,Temporal horizon,Author or Creator >
+3767,"Abdera","Abdera","Abdera",,
+7514,"Abrit",,"Marcianopolis",,1793
+3807,"Aetolofos, Arsakeio",,,,
+3824,"Agia Petra, Didymoteichon","Plotinopolis","Plotinopolis",,
+3797,"Agiasma",,,,
+3793,"Agios Georgios","Maroneia","Maroneia",,
+9371,"Ahtopol","Agathopolis","Agathopolis",,1792
+13896,"Akbaş","Sestos","Sestos",,2
+6018,"Aksakovo",,"Odessos",,1792
+13735,"Aldomirovtsi",,"Serdica",,1793
+10253,"Aleko Konstantinov",,"Philippopolis",,2
+3817,"Alexandroupolis",,,,
+16223,"Alexandrovo tomb, Haskovo",,,,2
+3782,"Anakioi Mitrikou","Stryme","Stryme",,
+7056,"Aprilovo",,"Nikopolis ad Istrum - Marcianopolis",,1793
+9231,"Aprilovo",,"Serdica",,2
+7433,"Arkovna",,"Marcianopolis",,1793
+14767,"Arnavutköy",,"Byzantion",,2
+8089,"Arzus","Arzus","Augusta Traiana",,2
+7574,"Asenovets",,"Augusta Traiana",,2
+10159,"Asenovgrad",,"Philippopolis",,1793
+3799,"Asomatoi",,,,
+3803,"Aspropotamo","Maximianopolis","Maximianopolis",,
+9280,"Augusta Traiana","Augusta Traiana","Augusta Traiana",,2
+13013,"Aytepe",,"Perinthos-Herakleia",,1792
+8690,"Aytos",,"Anchialos",,2
+13091,"Babyak",,"Pautalia",,2
+10737,"Bachkovski Manastir",,"Philippopolis",,1793
+14001,"Bagcekioi",,"Sestos",,2
+14479,"Bakirköy",,"Byzantion",,2
+3841,"Balchik","Dionysopolis","Dionysopolis",,
+15904,"Balgarin, Haskovo",,,,2
+3842,"Balkanci/Dionysopolis","Dionysopolis","Dionysopolis",,
+14184,"Baltaliman","Phidaleia","Byzantion",,2
+10772,"Barakovo",,"Pautalia",,1792
+16225,"Barbaros","Bisanthe",,,2
+8086,"Bashtino",,"Augusta Traiana",,2
+6573,"Bata",,"Mesambria",,1792
+8895,"Batkun",,"Philippopolis",,2
+10547,"Baykalsko",,"Pautalia",,1792
+10468,"Begunovci",,"Pautalia",,1792
+10138,"Belashtitsa",,"Philippopolis",,1793
+13858,"Belasitsa",,"Neine",,1793
+8158,"Beli Plast",,"Augusta Traiana",,2
+9406,"Belitsa",,"Serdica",,2
+11351,"Beljovo",,"Vallis Strimonis medii",,1792
+7147,"Belogradets",,"Nikopolis ad Istrum - Marcianopolis",,1793
+6045,"Beloslav",,"Odessos",,1792
+11023,"Belozem","Parembole","Philippopolis",,1793
+6379,"Belyakovets","Nikopolis ad Istrum","Nikopolis ad Istrum",,1793
+11231,"Benkovski",,"Philippopolis",,1793
+3863,"Bezhanovo",,,,
+3848,"Bistrilitsa",,"Municipium Montanensium",,
+10802,"Blagoevgrad","Scaptopara","Pautalia",,1792
+6956,"Blagoevo",,"Abritus",,1793
+7441,"Blaskova",,"Marcianopolis",,1793
+10543,"Blateshnitsa",,"Pautalia",,1792
+11597,"Bliznak",,"Anchialos",,2
+10535,"Boboratsi",,"Pautalia",,1792
+10759,"Boboshevo",,"Pautalia",,1792
+10843,"Bogdanitsa",,"Philippopolis",,1793
+7061,"Bogomilovo",,"Augusta Traiana",,2
+14003,"Bolayir","Lysimacheia","Lysimacheia",,2
+10833,"Bolyartsi",,"Philippopolis",,1793
+10996,"Borets",,"Philippopolis",,1793
+10766,"Borovets",,"Pautalia",,1792
+10522,"Bosnek",,"Pautalia",,1792
+3857,"Botevgrad","Orhanie",,,
+14265,"Boyalik",,"Byzantion",,2
+8338,"Bozadzhii",,"Augusta Traiana",,2
+7448,"Bozveliysko",,"Marcianopolis",,1793
+7066,"Braknitsa",,"Nikopolis ad Istrum - Marcianopolis",,1793
+10029,"Branipole",,"Philippopolis",,1793
+6590,"Brestovec",,"Mesambria",,1792
+9790,"Brestovitsa",,"Philippopolis",,1793
+10464,"Breznik (region of)",,"Pautalia",,1792
+10471,"Breznishki izvor",,"Pautalia",,1792
+9361,"Brezovo",,"Philippopolis",,2
+9203,"Buhovo",,"Serdica",,2
+3839,"Bulgarevo",,"Bizone",,
+10312,"Burdapa (Nympheum)","Burdapa","Philippopolis",,2
+8499,"Burdipta","Mansio Burdipta","Hadrianopolis",,2
+7986,"Burgas",,"Anchilaos",,1792
+7999,"Burgaski Bani","Aquae Calidae","Anchilaos",,1792
+10454,"Busintsi",,"Pautalia",,1792
+3869,"Butovo",,"Emporium Piretensium",,1793
+9241,"Butrointsi",,"Pautalia",,2
+10443,"Butrointsi",,"Pautalia",,1792
+13982,"Büyuk Anafarta","Koila","Koila",,2
+14473,"Büyükçekmece",,"Byzantion",,2
+9345,"Byaga",,"Philippopolis",,2
+7981,"Byal Izvor",,"Augusta Traiana",,2
+6609,"Byala Cherkva",,"Nikopolis ad Istrum",,
+11542,"Byala Voda",,"Anchialos",,2
+8517,"Byalopoljane",,"Hadrianopolis",,2
+14559,"Canta",,"Salymbria",,1792
+7178,"Carasura","Carasura","Augusta Traiana",,2
+8116,"Castra Rubra","Castra Rubra","Augusta Traiana",,2
+14650,"Çatalca",,"Byzantion",,2
+13010,"Cesmeli",,"Perinthos-Herakleia",,1792
+9196,"Chavdar",,"Serdica",,2
+13604,"Chekanchevo",,"Serdica",,1793
+9464,"Cheparlintsi",,"Serdica",,2
+13335,"Cherkovna",,"Marcianopolis",,1793
+11044,"Cherna Gora","Kellai","Philippopolis",,1793
+7384,"Chernevo",,"Marcianopolis",,1793
+9245,"Chervena Mogila",,"Pautalia",,2
+15914,"Chervinite skali, Rupite",,,,2
+11210,"Chirpan",,"Philippopolis",,1793
+11019,"Choba",,"Philippopolis",,1793
+8334,"Chokova",,"Augusta Traiana",,2
+13028,"Cizmetarla",,"Perinthos-Herakleia",,1792
+13037,"Corlu","Tzurulon","Perinthos-Herakleia",,1792
+8723,"Dabovo",,"Anchialos",,2
+16084,"Dalakova Mogila",,"Augusta Traiana",,2
+7559,"Dalboki",,"Augusta Traiana",,2
+9287,"Daskalovo",,"Pautalia",,2
+8529,"Dazdets",,"Hadrianopolis",,2
+10539,"Debeli Lag",,"Pautalia",,1792
+11311,"Debrene",,"Vallis Strimonis medii",,1792
+13042,"Degirmenkoy",,"Perinthos-Herakleia",,1792
+3768,"Delphi","Delphi","Delphi",,
+11605,"Dereköy",,"Bizye",,2
+8726,"Deultum","Deultum","Anchialos",,2
+7149,"Devnya","Marcianopolis","Marcianopolis",,1793
+6618,"Dichin",,"Nikopolis ad Istrum",,1793
+3825,"Didymoteichon","Plotinopolis","Plotinopolis",,
+9460,"Dimitrovgrad",,"Serdica",,2
+13422,"Dinkata",,"Philippopolis",,1793
+3808,"Dioni",,,,
+7116,"Dlazhko",,"Nikopolis ad Istrum - Marcianopolis",,1793
+8083,"Dobri Dol",,"Augusta Traiana",,2
+7497,"Dobrich (Tolbuhin)",,"Marcianopolis",,1793
+7365,"Dobrina",,"Marcianopolis",,1793
+8699,"Dobrinovo",,"Anchialos",,2
+13216,"Dobroplodno",,"Nikopolis ad Istrum - Marcianopolis",,1793
+13235,"Dobrotich",,"Nikopolis ad Istrum - Marcianopolis",,1793
+8411,"Dodoparon","Dodoparon","Hadrianopolis","|VER=1|TYP=p|TPQ=0100|TAQ=0300|DET=0|CLD=Gregorian|SPF=0|EPF=0",2
+10524,"Dolna Dikanja",,"Pautalia",,1792
+13779,"Dolna Gradeshnitsa","Neine","Neine",,1793
+3872,"Dolna Lipnitsa","Nikopolis ad Istrum","Nikopolis ad Istrum",,
+6122,"Dolni Bliznak","Erite","Erite",,1792
+7482,"Dolni Chiflik",,"Marcianopolis",,1793
+9295,"Dolni Lozen",,"Serdica",,2
+9484,"Dolni Pasarel",,"Serdica",,2
+13441,"Dolni Voden",,"Philippopolis",,1793
+9554,"Dospat",,,,2
+11874,"Doyrentsi",,"Emporium Piretensium",,1793
+13148,"Draganovets (Boaza)",,"Nikopolis ad Istrum - Marcianopolis",,1793
+11906,"Draganovo",,"Nikopolis ad Istrum",,1793
+10492,"Dragichevo",,"Pautalia",,1792
+9428,"Dragoman",,"Serdica",,2
+8429,"Duganovo",,"Hadrianopolis",,2
+8236,"Dunavtsi",,"Augusta Traiana",,2
+16637,"Duvanlii",,"Philippopolis",,2
+3800,"Dymi",,,,
+9331,"Dyulevo",,"Philippopolis",,2
+11792,"Dyulino",,"Mesambria",,1793
+13971,"Eceabat","Madytos","Madytos",,2
+16550,"Edirne","Hadrianopolis","Hadrianopolis",,2
+9225,"Egeritsa - Mirovo",,"Serdica",,2
+10481,"Elovdol",,"Pautalia",,1792
+6130,"Emona","Aristaeum","Aristaeum",,
+15896,"Enez","Ainos","Ainos",,2
+14552,"Eski Eregli",,"Salymbria",,1792
+5994,"Evksinograd",,"Odessos",,1792
+6949,"Ezerche",,"Abritus",,1793
+8118,"Ezerovo",,"Augusta Traiana",,2
+6036,"Ezerovo",,"Odessos",,1792
+8739,"Fakiya",,"Anchialos",,2
+14555,"Fanari",,"Salymbria",,1792
+3821,"Feres","Ferai","Ferai",,
+8126,"Filevo",,"Augusta Traiana",,2
+3811,"Fillyra, Xidia",,,,
+10754,"Frolosh",,"Pautalia",,1792
+3859,"Gabare",,,,
+9424,"Gaber",,"Serdica",,2
+7120,"Gabritsa",,"Nikopolis ad Istrum - Marcianopolis",,1793
+6760,"Gabrovo",,"Nikopolis ad Istrum",,1793
+3849,"Gaganitsa",,"Municipium Montanensium",,
+6048,"Galata",,"Odessos",,1792
+3798,"Galini, Iasmos",,,,
+9558,"Gara Belyovo",,"Philippopolis",,2
+9731,"Gara Krichim",,"Philippopolis",,1793
+11365,"Garmen (Gotse Delchev)","Nicopolis ad Nestum","Nicopolis ad Nestum",,1792
+13912,"Gelibolu","Kallipolis","Kallipolis",,2
+3772,"Genisea",,"Topeiros",,
+9305,"German",,"Serdica",,2
+3866,"Gigen","Oescus","Nikopolis ad Istrum",,
+13495,"Gita",,"Augusta Traiana",,1793
+3860,"Glava Panega",,,,
+10246,"Glavinitsa",,"Philippopolis",,2
+3783,"Glyphada","Stryme","Stryme",,
+9474,"Godech",,"Serdica",,2
+9228,"Golema Rokovitsa",,"Serdica",,2
+9452,"Golemo Malovo",,"Serdica",,2
+7485,"Golitsa - Pchelnik",,"Marcianopolis",,1793
+9572,"Golyam Dol - Varvara",,"Philipppopolis",,2
+3861,"Golyama Brestnitsa",,,,
+8742,"Golyamo Bukovo",,"Anchialos",,2
+11857,"Golyamo Peshtene",,"Vicus Trullensium",,1793
+9404,"Golyanovtsi",,"Serdica",,2
+10554,"Goranovtsi",,"Pautalia",,1792
+6560,"Gorica",,"Mesambria",,1792
+3835,"Gorichane",,"Caron Limen",,
+11868,"Gorna Beshovitsa",,"Vicus Trullensium",,1793
+10905,"Gorna Gradeshnitsa and Ilindentsi","Neine","Vallis Strimonis medii",,1792
+6649,"Gorna Oryahovitsa",,"Nikopolis ad Istrum",,1793
+10477,"Gorna Sekirna",,"Pautalia",,1792
+11359,"Gorna Sušica - Zlatolist",,"Vallis Strimonis medii",,1792
+9302,"Gorni Lozen",,"Serdica",,2
+10516,"Gorni Rakovec",,"Pautalia",,1792
+10457,"Gorni Romantsi - Dolni Romantsi",,"Pautalia",,1792
+10147,"Gorni Voden",,"Philippopolis",,1793
+6682,"Gorno Botevo",,"Augusta Traiana",,2
+8282,"Gorno Izvorovo",,"Augusta Traiana",,2
+11348,"Gorno Spančevo",,"Vallis Strimonis medii",,1792
+10474,"Gorochevtsi",,"Pautalia",,1792
+8296,"Gorska Koznitsa",,"Pautalia",,2
+6995,"Gorsko Ablanovo",,"Nikopolis ad Istrum - Marcianopolis",,1793
+6584,"Gorsko Kosovo","Emporium Piretensium","Nikopolis ad Istrum",,1793
+6768,"Gostilitsa","Discoduraterae","Discoduraterae",,1793
+9714,"Govedare",,"Philippopolis",,1793
+13626,"Gradets",,"Serdica",,1793
+9458,"Gradine",,"Serdica",,2
+10886,"Graf Ignatievo",,"Philippopolis",,1793
+11197,"Grozdevo",,"Philippopolis",,1793
+13043,"Gümüsyaka (Eski Eregli)",,"Perinthos-Herakleia",,1792
+9382,"Gurmazovo",,"Serdica",,2
+10810,"Gyueshevo",,"Pautalia",,1792
+9701,"Hadzhievo",,"Philippopolis",,1793
+8543,"Hadzhiite",,"Anchialos",,2
+8390,"Hanovo",,"Augusta Traiana",,2
+11353,"Harsovo",,"Vallis Strimonis medii",,1792
+8149,"Haskovo",,"Augusta Traiana",,2
+8152,"Haskovski Bani",,"Augusta Traiana",,2
+14546,"Hasköy",,"Byzantion",,2
+13606,"Helitse-Hilitsa (Ihtiman)",,"Serdica",,1793
+14055,"Hexamili",,"Lysimacheia",,2
+10890,"Hisarya",,"Philippopolis",,1793
+11958,"Hotnitsa",,"Nikopolis ad Istrum",,1793
+6023,"Ignatievo",,"Odessos",,1792
+3794,"Imeros","Imeros","Maroneia",,
+3786,"Isalon","Stryme","Stryme",,
+7122,"Isperih",,"Nikopolis ad Istrum - Marcianopolis",,1793
+9347,"Isperihovo",,"Philippopolis",,2
+14192,"Istanbul","Byzantion","Byzantion",,2
+8047,"Istria","Histria","Histria",,1792
+9318,"Ivanyane - Bankya",,"Serdica",,2
+8512,"Ivaylovgrad",,"Hadrianopolis",,2
+7146,"Izbul",,"Nikopolis ad Istrum - Marcianopolis",,1793
+13353,"Izgrev",,"Marcianopolis",,1793
+3769,"Izmir","Teos","Smyrna",,
+10015,"Izvor",,"Philippopolis",,1793
+8015,"Izvorishte",,"Anchilaos",,1792
+7237,"Izvorovo",,"Augusta Traiana",,2
+11355,"Janovo",,"Vallis Strimonis medii",,1792
+8341,"Kabile","Kabyle","Augusta Traiana",,2
+9712,"Kadievo","Tugugerum","Philippopolis",,1793
+14161,"Kadiköy",,"Selymbria",,1792
+10666,"Kadin Most",,"Pautalia",,1792
+3838,"Kaliakra","Tirizis","Bizone",,
+11349,"Kalimanci",,"Vallis Strimonis medii",,1792
+7402,"Kalimantsi",,"Marcianopolis",,1793
+14554,"Kallikrateia?","Kallikrateia?","Salymbria",,1792
+7087,"Kalnovo",,"Nikopolis ad Istrum - Marcianopolis",,1793
+9454,"Kalotina","Ballanstra","Serdica",,2
+8326,"Kaloyanovo",,"Augusta Traiana",,2
+3777,"Kalyva",,"Topeiros",,
+8721,"Kamen Vrah",,"Anchialos",,2
+9284,"Kamenets",,"Anchialos",,2
+3868,"Kamenets",,"Nikopolis ad Istrum",,
+10729,"Kamenik",,"Pautalia",,1792
+8012,"Kameno",,"Anchilaos",,1792
+7580,"Kamenovo",,"Augusta Traina",,2
+8508,"Kamilski Dol - Valche Pole",,"Hadrianopolis",,2
+14553,"Kapakli",,"Salymbria",,1792
+8505,"Kapitan Andreevo",,"Hadrianopolis",,2
+8898,"Kapitan Dimitrevo",,"Philippopolis",,2
+14288,"Karaburun",,"Byzantion",,2
+6833,"Karanovo",,"Augusta Traiana",,2
+3855,"Karash",,,,
+8718,"Karavelovo",,"Anchialos",,2
+7032,"Kardam",,"Nikopolis ad Istrum - Marcianopolis",,1793
+11358,"Karlanovo",,"Vallis Strimonis medii",,1792
+10987,"Karlovo",,"Philippopolis",,1793
+8541,"Karnobat",,"Anchialos",,2
+3781,"Kasaktsi Dere","Stryme","Stryme",,
+8136,"Kasnakovo",,"Augusta Traiana",,2
+11352,"Katunci",,"Vallis Strimonis medii",,1792
+3837,"Kavarna",,"Bizone",,
+3836,"Kavarna","Bizone","Bizone",,
+8298,"Kazanlak",,"Augusta Traiana",,2
+5986,"Kichevo",,"Odessos",,1792|1793
+13975,"Kilia","Koila","Koila",,2
+7280,"Kiril Metodievo",,"Augusta Traiana",,2
+3823,"Kirki - Sikorrachi",,,,
+11836,"Kiten",,"Apollonia",,1793
+8142,"Klokotnitsa",,"Augusta Traiana",,2
+8525,"Kobilino",,"Hadrianopolis",,2
+10776,"Kočerinovo",,"Pautalia",,1792
+3828,"Komara",,"Adrianoupolis",,
+10027,"Komatevo",,"Philippopolis",,1793
+3792,"Komotini","Maroneia","Maroneia",,
+3832,"Komotini?",,,,
+10625,"Konjavo","Spinopara","Pautalia",,1792
+10566,"Kopilovtsi","Caristorum","Pautalia",,1792
+3827,"Kornofolea",,"Plotinopolis",,
+7578,"Korten",,"Augusta Traiana",,2
+3790,"Kos","Kos","Kos",,
+6553,"Kosharica",,"Mesambria",,
+3775,"Kosmiti","Topeiros","Topeiros",,
+13426,"Kostandovo",,"Philippopolis",,1793
+7128,"Kostena reka",,"Nikopolis ad Istrum - Marcianopolis",,1793
+9396,"Kostinbrod","Scretisca","Serdica",,2
+11350,"Kovačevo",,"Vallis Strimonis medii",,1792
+6692,"Kovach",,"Augusta Traiana",,2
+7019,"Kovachevets",,"Nikopolis ad Istrum - Marcianopolis",,1793
+11678,"Kovachevitsa","Nicopolis ad Nestum","Nicopolis ad Nestum",,2
+14556,"Köyundere",,"Salymbria",,1792
+10274,"Kozarsko",,"Philippopolis",,2
+6913,"Kozlovets",,"Novae",,1793
+13203,"Kralevo",,"Nikopolis ad Istrum - Marcianopolis",,1793
+15533,"Kran","Apollo Teradenos sanctuary","Augusta Traiana","|VER=1|TYP=p|TPQ=0150|TAQ=0299|DET=0|CLD=Gregorian|SPF=0|EPF=0",2
+8243,"Kran","Apollo Zerdenos sanctuary","Augusta Traiana","|VER=1|TYP=p|TPQ=0150|TAQ=0230|DET=0|CLD=Gregorian|SPF=0|EPF=0",2
+3845,"Kranevo","Ekrene","Dionysopolis",,
+7539,"Krasen",,"Marcianopolis",,1793
+13599,"Krasna Polyana","Serdica","Serdica",,1793
+9248,"Krayintsi",,"Pautalia",,2
+8146,"Krepost",,"Augusta Traiana",,2
+13785,"Kresna",,"Neine",,1793
+3865,"Kreta",,"Nikopolis ad Istrum",,
+9749,"Krichim",,"Philippopolis",,1793
+13535,"Krumovgrad",,"Augusta Traiana",,1793
+13922,"Küçük-Anafartalar","Alopekonnesos","Alopekonnesos",,2
+14233,"Küçükçekmece","Rhegion","Byzantion",,2
+14226,"Kücükseimen",,"Salymbria",,1792
+9358,"Kuklen",,"Philippopolis",,2
+14557,"Kumburgaz","Oikonomeion","Salymbria",,1792
+3858,"Kunino","Vicus Trullensium","Vicus Trullensium",,
+16270,"Kupinovo, Veliko Turnovo",,,,2
+9215,"Kurilo",,"Serdica",,2
+14196,"Kyaneai Island","Kyaneai Island","Byzantion",,2
+9659,"Kyustendil","Pautalia","Pautalia",,1792
+11326,"Laskarevo",,"Vallis Strimonis medii",,1792
+11360,"Lehovo",,"Vallis Strimonis medii",,1792
+16195,"Leshnikova Mogila, Kazanlak",,"Augusta Traiana",,2
+6613,"Lesicheri",,"Nikopolis ad Istrum",,1793
+9290,"Lesnovo","Mansio Burgaratsa","Serdica",,2
+10690,"Lilyach",,"Pautalia",,1792
+3850,"Lilyache",,,,
+13134,"Lilyak",,"Nikopolis ad Istrum - Marcianopolis",,1793
+13114,"Lipnik",,"Abritus",,1793
+3856,"Lipnitsa",,,,
+3809,"Lofarion",,,,
+3816,"Loutra","Traianoupolis","Traianoupolis",,
+3867,"Lovech","Melta",,,
+7596,"Lovets",,"Augusta Traiana",,2
+8452,"Lozen - Dijnikli",,"Hadrianopolis",,2
+8535,"Lozenets",,"Anchialos",,2
+15569,"Lozenets, Yambol",,,,2
+10241,"Lyahovo",,"Philippopolis",,2
+5069,"Lyaskovets","Nikopolis ad Istrum","Nikopolis ad Istrum",,1793
+7426,"Lyuben Karavelov",,"Marcianopolis",,1793
+6998,"Lyublen",,"Nikopolis ad Istrum - Marcianopolis",,
+11865,"Lyutibrod",,"Vicus Trullensium",,1793
+7125,"Madara",,"Nikopolis ad Istrum - Marcianopolis",,1793
+3822,"Makri",,,,
+15587,"Malenovo",,,,2
+10727,"Mali Varbovnik",,"Pautalia",,1792
+7308,"Malka Vereya",,"Augusta Traiana",,2
+9562,"Malko Belyovo",,"Philippopolis",,2
+8309,"Malko Chochoven",,"Augusta Traiana",,2
+11554,"Malko Tarnovo",,"Anchialos",,2
+10284,"Malo Konare",,"Philippopolis",,2
+8392,"Malomir",,"Augusta Traiana",,2
+8421,"Malomirovo",,"Hadrianopolis",,2
+7369,"Manastir",,"Marcianopolis",,1793
+9263,"Marcianopolis","Marcianopolis","Marcianopolis",,2
+8109,"Maritsa",,"Augusta Traiana",,2
+7378,"Markovo",,"Marcianopolis",,1793
+9801,"Markovo",,"Philippopolis",,1793
+11896,"Marmara Ereğlisi","Perinthos (Herakleia)","Perinthos (Herakleia)",,1792
+3789,"Maroneia","Maroneia","Maroneia",,
+9409,"Maslovo",,"Serdica",,2
+15590,"Meden Kladenets",,,,2
+7047,"Medovina",,"Nikopolis ad Istrum - Marcianopolis",,1793
+13506,"Medovo",,"Augusta Traiana",,1793
+11357,"Melnik",,"Vallis Strimonis medii",,1792
+8078,"Merichleri",,"Augusta Traiana",,2
+3815,"Mesimvria","Zone","Zone",,
+3801,"Mesochori",,,,
+7078,"Metodievo",,"Nikopolis ad Istrum - Marcianopolis",,1793
+3852,"Mezdra","Kaleto",,,
+14167,"Miletos",,"Byzantion",,2
+6751,"Mindya",,"Nikopolis ad Istrum",,1793
+13850,"Mitino",,"Neine",,1793
+16281,"Mitinovo","Heraclea Sintica","Heraclea Sintica",,2
+3785,"Mitriko",,"Chrsonesos Molybotes",,
+3779,"Mitriko","Stryme","Stryme",,
+3766,"Modern location","Ancient location site","Ancient location region",,
+9261,"Mogila",,"Marcianopolis",,2
+7277,"Mogilovo",,"Augusta Traiana",,2
+3784,"Molyboti",,"Chersonesos Molybotes",,
+3788,"Molyboti","Stryme","Stryme",,
+3780,"Molyvoti","Stryme","Stryme",,
+7460,"Momino",,"Marcianopolis",,1793
+3847,"Montana","Municipium Montanensium","Municipium Montanensium",,
+9385,"Mramor",,"Serdica",,2
+9253,"Muletarovo",,,,2
+11361,"Muletarovo - Rupite",,"Vallis Strimonis medii",,1792
+16590,"Musachevo",,"Augusta Traiana",,2
+3830,"Museum Komotini",,,,
+3831,"Museum Xanthi",,,,
+3778,"Myrtoussa - Aeriko",,"Topeiros",,
+6004,"Nadežda (?)",,"Odessos",,1792
+8447,"Nadezhden",,"Hadrianopolis",,2
+16183,"Naip, Tekirdag, Mt. Ganos",,,,2
+13532,"Nanovitsa",,"Augusta Traiana",,1793
+3819,"Nea Chili",,,,
+10672,"Nedelkova Grashtitsa",,"Pautalia",,1792
+9207,"Negovan",,"Serdica",,2
+6172,"Nesebar","Mesambria","Mesambria",,1792
+10413,"Nevestino",,"Pautalia",,1792
+10564,"Nikolichevtsi",,"Pautalia",,1792
+3870,"Nikyup","Nikopolis ad Istrum","Nikopolis ad Istrum",,
+9233,"Novi Han",,"Serdica",,2
+11367,"Novo Leski","Nicopolis ad Nestum","Nicopolis ad Nestum",,1792
+9738,"Novo Selo",,"Philippopolis",,1793
+10023,"Novosel",,"Philippopolis",,1793
+7585,"Novoselets",,"Augusta Traiana",,2
+16010,"Nymphaia (Greece)",,,,2
+6634,"Obedinenie",,"Nikopolis ad Istrum",,1793
+6125,"Obzor","Naulochos - Templum Iovis","Naulochos - Templum Iovis",,
+14173,"Olbia",,"Byzantion",,2
+14179,"Olympia",,"Byzantion",,2
+7071,"Omurtag",,"Nikopolis ad Istrum - Marcianopolis",,1793
+8375,"Opitsvet",,"Serdica",,2
+9726,"Orizare",,"Philippopolis",,1793
+11040,"Orizovo",,"Philippopolis",,1793
+6951,"Osenets",,"Abritus",,1793
+8301,"Ovosthnik",,"Augusta Traiana",,2
+13145,"Padarino",,"Nikopolis ad Istrum - Marcianopolis",,1793
+13331,"Padina",,"Marcianopolis",,1793
+3802,"Paisoulai","Maximianopolis","Maximianopolis",,
+3818,"Palagia",,,,
+7025,"Palamartsa",,"Nikopolis ad Istrum - Marcianopolis",,1793
+13143,"Palatitsa",,"Nikopolis ad Istrum - Marcianopolis",,1793
+9503,"Pamidovo",,"Philippopolis",,2
+9490,"Panagyurishte",,"Philippopolis",,2
+9307,"Pancharevo",,"Serdica",,2
+11797,"Panitsovo",,"Mesambria",,1793
+3774,"Paradisos","Topeiros","Topeiros",,
+3804,"Paradymi, Baltos",,,,
+11191,"Partizanin",,"Philippopolis",,1793
+6625,"Paskalevets",,"Nikopolis ad Istrum",,1793
+7589,"Pastren",,"Augusta Traiana",,2
+7253,"Pastrovo",,"Augusta Traiana",,2
+9788,"Pastusha",,"Philippopolis",,1793
+10227,"Patalenitsa",,"Philippopolis",,2
+6606,"Pavlikeni",,"Nikopolis ad Istrum",,1793
+9273,"Pazardzhik",,"Philippopolis",,2
+10526,"Pchelintsi",,"Pautalia",,1792
+6747,"Pchelishte",,"Nikopolis ad Istrum",,1793
+8521,"Pelevun",,"Hadrianopolis",,2
+10513,"Pernik",,"Pautalia",,1792
+9354,"Perushtitsa",,"Philippopolis",,2
+10529,"Peshtera",,"Pautalia",,1792
+10272,"Peshtera",,"Philippopolis",,2
+11590,"Peshtersko",,"Anchialos",,2
+11363,"Petrič",,"Vallis Strimonis medii",,1792
+6676,"Petrovo and Kaloyanovets",,"Augusta Traiana",,2
+10989,"Pevtsite",,"Philippopolis",,1793
+15872,"Piperitsa, Blagoevgrad",,"Vallis Strimonis medii",,2|1792
+14160,"Pivados","Epibatais","Selymbria",,1792
+7602,"Pizos","Pizos","Augusta Traiana",,2
+3810,"Plagia",,,,
+7074,"Plastina",,"Nikopolis ad Istrum - Marcianopolis",,1793
+3829,"Plati",,"Adrianoupolis",,
+5912,"Pliska",,"Nikopolis ad Istrum - Marcianopolis",,1792
+10980,"Ploski",,"Vallis Strimonis medii",,1792
+7544,"Plovdiv","Philippopolis","Philippopolis",,1793
+9213,"Podgumer",,"Serdica",,2
+5043,"Polikraishte","Nikopolis ad Istrum","Nikopolis ad Istrum",,1793
+3805,"Polyanthos",,,,
+6651,"Pomorie","Anchilaos","Anchilaos",,1792
+9492,"Popintsi",,"Philippopolis",,2
+10841,"Popovitsa",,"Philippopolis",,1793
+7037,"Popovo",,"Nikopolis ad Istrum - Marcianopolis",,1793
+6571,"Poroy","Karsaleon","Mesambria",,1792
+3771,"Porto Lagos",,"Abdera",,
+7534,"Poruchik Kardzhievo",,"Marcianopolis",,1793
+9199,"Potop - Jordankino",,"Serdica",,2
+3826,"Prangi",,"Plotinopolis",,
+8702,"Pravdino",,"Anchialos",,2
+7083,"Preslav",,"Nikopolis ad Istrum - Marcianopolis",,1793
+13527,"Prileptsi",,"Augusta Traiana",,1793
+3796,"Proskynetai",,"Maroneia",,
+7340,"Provadia",,"Marcianopolis",,1793
+10518,"Provalenica",,"Pautalia",,1792
+11016,"Radomir",,"Philippopolis",,1793
+9556,"Rakitovo",,"Philippopolis",,2
+10676,"Rashka Grashtitsa",,"Pautalia",,1792
+10485,"Rasnik",,"Pautalia",,1792
+9293,"Ravno Pole",,"Serdica",,2
+9487,"Rayovo",,"Serdica",,2
+8441,"Razdel",,"Hadrianopolis",,2
+6937,"Razgrad","Abritus","Abritus",,1793
+10557,"Razhdavitsa",,"Pautalia",,1792
+3871,"Resen","Nikopolis ad Istrum","Nikopolis ad Istrum",,
+10780,"Rila","Sportela","Pautalia",,1792
+11593,"Robovo",,"Anchialos",,2
+3843,"Rogachevo",,"Dionysopolis",,
+13138,"Rositsa",,"Nikopolis ad Istrum - Marcianopolis",,1793
+10461,"Rosoman",,"Pautalia",,1792
+7444,"Royak",,"Marcianopolis",,1793
+7563,"Rumanya",,"Augusta Traiana",,2
+16289,"Rupite","Heraclea Sintica","Heraclea Sintica",,2
+13498,"Rupkite",,"Augusta Traiana",,1793
+13241,"Ruse","Sexaginta Prista","Nikopolis ad Istrum - Marcianopolis",,1793
+7015,"Sadina",,"Nikopolis ad Istrum - Marcianopolis",,1793
+7247,"Saedinenie",,"Augusta Traiana",,2
+3791,"Samothrace","Samothrace","Samothrace",,
+6701,"Samovodene",,"Nikopolis ad Istrum",,1793
+7599,"Samuilovo",,"Augusta Traiana",,2
+10982,"Sandanski","Parthikopolis","Vallis Strimonis medii",,1792|2
+10678,"Sapareva Banya","Germania","Pautalia",,1792
+3820,"Saragia","Doriskos","Doriskos",,
+9537,"Saraya",,"Philippopolis",,2
+13060,"Sariköy",,"Perinthos-Herakleia",,1792
+6786,"Sarnevo",,"Augusta Traiana",,2
+16178,"Sboryanovo, Isperih",,,,2
+14163,"Seleukeia in Kilikia",,"Byzantion",,2
+9565,"Semchinovo",,"Philippopolis",,2
+3840,"Septemvrijtsi",,"Bizone",,
+11853,"Serdar",,"Municipium Montanensium",,1793
+8901,"Serdica","Serdica","Serdica",,2
+8178,"Seuthopolis","Seuthopolis","Augusta Traiana","|VER=1|TYP=p|TPQ=-0320|TAQ=-0250|DET=0|CLD=Gregorian|SPF=0|EPF=0",2
+7051,"Seyachi",,"Nikopolis ad Istrum - Marcianopolis",,1793
+3834,"Shabla",,"Caron Limen",,
+10706,"Shatrovo, Dolistovo, Golemo Selo, Balanovo",,"Pautalia",,1792
+8239,"Shipka",,"Augusta Traiana",,2
+11021,"Shishmantsi",,"Philippopolis",,1793
+7404,"Shtipsko",,"Marcianopolis",,1793
+7487,"Silistra","Durostorum","Durostorum",,1793
+14139,"Silivri","Salymbria","Salymbria",,1792
+15583,"Simeonovo - Asenovo",,,,2
+16015,"Sinemorets",,,,2
+10294,"Sinitovo","Bessapara","Philippopolis",,2
+3854,"Sinyo Bardo",,,,
+14558,"Sirdekeui","Deliones","Salymbria",,1792
+8025,"Skef",,"Anchilaos",,1792
+10748,"Skrino",,"Pautalia",,1792
+10562,"Skrinyano",,"Pautalia",,1792
+13433,"Skutare",,"Philippopolis",,1793
+9315,"Slatina",,"Serdica",,2
+13123,"Slavyanovo",,"Nikopolis ad Istrum - Marcianopolis",,1793
+8311,"Sliven","Emporium Thuidai","Augusta Traiana",,2
+9422,"Slivnitsa",,"Serdica",,2
+10663,"Slokoshtitsa",,"Pautalia",,1792
+16511,"Smyadovo (mound)",,,,2
+9482,"Sofia - Gorna Banya",,"Serdica",,2
+9477,"Sofia - Krasno Selo",,"Serdica",,2
+3806,"Sostis",,,,
+8044,"Sozopol","Apollonia","Apollonia",,1792
+7235,"Spasovo",,"Augusta Traiana",,2
+7242,"Sredno Gradishte",,"Augusta Traiana",,2
+8131,"Stalevo",,"Augusta Traiana",,2
+6844,"Stamovo (Asparuhovo)",,"Augusta Traiana",,2
+6671,"Stara Zagora","Augusta Traiana","Augusta Traiana",,2
+7372,"Staroselets",,"Marcianopolis",,1793
+7361,"Starozagorski bani",,"Augusta Traiana",,2
+10252,"Starya Izvor",,"Philippopolis",,2
+13237,"Stefan Karadzha",,"Nikopolis ad Istrum - Marcianopolis",,1793
+3864,"Storgosia",,,,
+10757,"Stradalovo, Smolichino",,"Pautalia",,1792
+7972,"Stransko",,"Augusta Traiana",,2
+13129,"Strazha",,"Nikopolis ad Istrum - Marcianopolis",,1793
+10992,"Streltsi",,"Philippopolis",,1793
+10856,"Stroevo",,"Philippopolis",,1793
+15586,"Stroyno",,,,2
+6586,"Suhindol",,"Nikopolis ad Istrum",,1793
+13059,"Sultanköy",,"Perinthos-Herakleia",,1792
+7387,"Suvorovo",,"Marcianopolis",,1793
+9803,"Sveti Spas",,"Philippopolis",,1793
+6548,"Sveti Vlas",,"Mesambria",,1792
+6889,"Svishtov",,"Novae",,1793
+6983,"Tabachka - Cherven",,"Nikopolis ad Istrum - Marcianopolis",,1793
+7068,"Targovishte",,"Nikopolis ad Istrum - Marcianopolis",,1793
+10851,"Tatarevo",,"Philippopolis",,1793
+10655,"Tavalichevo",,"Pautalia",,1792
+8174,"Tazha",,"Augusta Traiana",,2
+16545,"Tekirdağ","Bisanthe","Bisanthe",,2
+14271,"Terkoz","Delkos","Byzantion",,2
+11861,"Tishevitsa",,"Vicus Trullensium",,1793
+3862,"Todorichene",,,,
+13111,"Topchii",,"Abritus",,1793
+11362,"Topolnica",,"Vallis Strimonis medii",,1792
+10828,"Topolovo",,"Philippopolis",,1793
+3770,"Toxotes",,"Topeiros",,
+8329,"Trapoklovo",,"Augusta Traiana",,2
+6959,"Trastika",,"Abritus",,1793
+7457,"Trastikovo",,"Marcianopolis",,1793
+9218,"Trayanovi vrata","Soneium","Serdica",,2
+7171,"Tri mogili",,"Augusta Traiana",,2
+8114,"Troyan",,"Augusta Traiana",,2
+10860,"Trud",,"Philippopolis",,1793
+10290,"Tsalapitsa",,"Philippopolis",,2
+6488,"Tsarevets (Veliko Tarnovo)",,"Nikopolis ad Istrum",,1793
+3853,"Tsarevets - Dolna Beshovitsa",,,,
+3844,"Tsarichino","Dionysopolis","Dionysopolis",,
+9467,"Tuden",,"Serdica",,2
+8037,"Tvarditsa",,"Anchilaos",,1792
+3833,"Tvarditsa",,"Caron Limen",,
+8850,"Uncertain (Bulgaria)",,"Uncertain (Thrace)",,2
+13061,"Uncertain (Turkey)",,"Uncertain (Thrace)",,1792
+6110,"Unknown",,,,1792
+8039,"Unknown",,"Anchilaos",,1792
+6103,"Unknown",,"Odessos",,1792
+11364,"Unknown",,"Vallis Strimonis medii",,1792
+9764,"Ustina",,"Philippopolis",,1793
+8434,"Ustrem",,"Hadrianopolis",,2
+13617,"Vakarel",,"Serdica",,1793
+10751,"Vaksevo",,"Pautalia",,1792
+13344,"Valchi Dol",,"Marcianopolis",,1793
+15592,"Valchi Izvor",,,,2
+6603,"Varbovka",,"Nikopolis ad Istrum",,1793
+3846,"Varna","Odessos","Odessos",,
+9587,"Varvara",,"Philippopolis",,2
+6162,"Veliko Tarnovo","Nikopolis ad Istrum","Nikopolis ad Istrum",,1793
+13340,"Venchan",,"Marcianopolis",,1793
+16640,"Vetren",,"Pistiros",,2
+9494,"Vetren","Lissae - Bona Mansio","Philippopolis",,2
+9591,"Vetren dol",,"Philippopolis",,2
+13342,"Vetrino",,"Marcianopolis",,1793
+8220,"Viden","Thracian rider sanctuary","Augusta Traiana","|VER=1|TYP=p|TPQ=0200|TAQ=0299|DET=0|CLD=Gregorian|SPF=0|EPF=0",2
+7273,"Vinarovo",,"Augusta Traiana",,2
+5988,"Vinitsa",,"Odessos",,1792|1793
+6007,"Vladislavovo",,"Odessos",,1792
+8444,"Voden",,"Hadrianopolis",,2
+6493,"Vodoley",,"Nikopolis ad Istrum",,1793
+9380,"Voluyak",,"Serdica",,2
+8716,"Voynika",,"Anchialos",,2
+9377,"Vrabnitsa",,"Serdica",,2
+11354,"Vranja",,"Vallis Strimonis medii",,1792
+3851,"Vratsa",,,,
+3814,"Vrysi Mousa, Mesemvria","Zone","Zone",,
+9267,"Vtora Kamenitsa",,"Philippopolis",,2
+10734,"Vukovo",,"Pautalia",,1792
+3773,"Xanthi",,"Abdera",,
+3776,"Xanthi","Xantheia","Topeiros",,
+14581,"Xastron",,"Salymbria",,1792
+3787,"Xylagane","Stryme","Stryme",,
+3795,"Xylagani",,"Maroneia",,
+9796,"Yagodovo",,"Philippopolis",,1793
+13878,"Yalova","Sestos","Sestos",,2
+8371,"Yambol","Diospolis - Diampolis","Augusta Traiana",,2
+7114,"Yankovo",,"Nikopolis ad Istrum - Marcianopolis",,1793
+11954,"Yavorovo",,"Carasura",,2
+12986,"Yenciftlik",,"Perinthos-Herakleia","|VER=1|TYP=p|TPQ=0001|TAQ=0600|DET=0|CLD=Gregorian|SPF=0|EPF=0",1792
+14717,"Yesilköy",,"Byzantion",,1792
+9704,"Yoakim Gruevo","Tugugerum","Philippopolis",,1793
+9533,"Yunatsite",,"Philippopolis",,2
+11552,"Zabernovo",,"Anchialos",,2
+8304,"Zapalnya",,"Augusta Traiana",,2
+15927,"Zeleni Dol, Blagoevgrad",,,,2
+10446,"Zelenigrad",,"Pautalia",,1792
+10674,"Zgurovo",,"Pautalia",,1792
+7452,"Zhitnitsa",,"Marcianopolis",,1793
+9351,"Zlati Trap",,"Philippopolis",,2
+9720,"Zlati trap","Tugugerum","Philippopolis",,1793
+10817,"Zlatovrah",,"Philippopolis",,1793
+3813,"Zone","Zone","Zone",,
+3812,"Zoni","Drys","Drys, Zone",,
+8705,"Zornitsa",,"Anchialos",,2
+8155,"Zornitsa",,"Augusta Traiana",,2
+9540,"Zvanichevo",,"Philippopolis",,2
+11546,"Zvezdets",,"Anchialos",,2

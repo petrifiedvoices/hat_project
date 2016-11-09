@@ -1,0 +1,113 @@
+Record ID,Administrative keywords,Category Admin keyword,Origin,Short summary,Author or Creator >
+2302,"Agon",Culture related,Greek,"race, sport or cultural event",2
+1805,"Agora",Location - place name,Greek,"public space in Greek city, originally market place",2
+2606,"Agoraios",Magistrature,Greek,"notary, pleader, advocate, guardian of popular assemblies",2
+1808,"Agoranomos",Magistrature,Greek,"a market overseer, official who was in charge of controlling market place",2
+1809,"Aisymnetes",Magistrature,Greek,"a judge in the athletic games, sometimes usurpator of city-power",2
+14125,"Akropolis",Location - place name,Greek,"citadel, castle",2
+1810,"Analoma",Financial,Greek,"an expense, an amount",2
+10983,"Anthypatos",Magistrature,Greek,"Proconsul, legate",1792
+7181,"Antistrategos",Military,Roman,"acting commander, propraetor, i.e. governor of a province with rank of pro praetore",2
+2895,"Apeleutheros",Status,Greek,"freed man",2
+1811,"Arche",Institution,Greek,"magistracy in the Greek city",2
+4719,"Archein|Arxantes",Institution,Greek,"verb to rule (as archon)",2
+3540,"Archiatros",Other occupation,Greek,"official physician",2
+1806,"Archon",Magistrature,Greek,"official in the Greek city",2
+2301,"Argyrotamias",Magistrature,Greek,"treasurer",2
+7979,"Astoi",Status,Greek,"inhabitants of asty",2
+1814,"Asty",Location - place name,Greek,"the area of Greek city, in opposition to chora - hinterland",2
+1807,"Astynomos",Magistrature,Greek,"overseer in the Greek city, police-officer",2
+2645,"Autokrator",Military,Greek,"commandant of an army, later Roman emperor",2
+1815,"Basileia",Institution,Greek,"the kingdom",2
+1816,"Basileus",Magistrature,Greek,"king or eponymous official in the Greek city",2
+16546,"Basilissa",Institution,,,2
+1817,"Boule",Institution,Greek,"the council in the Greek city",2
+1819,"Bouleuterion",Location - place name,Greek,"the building of a Council",2
+2663,"Bouleutes",Magistrature,Greek,"member of city council",2
+1836,"Chora",Location - place name,Greek,"hinterland of the Greek city-state",2
+13879,"Choregia",Magistrature,Greek,"civilian liturgies",2
+2336,"Chremata",Financial,Greek,"money",2
+1821,"Demos",Institution,Greek,"the people of a Greek polis",2
+8893,"Dike",Institution,Greek,"trial, law",2
+6687,"Dogma",Institution,Greek,"decision, judgement, public decree, ordinance",2
+2170,"Doulos",Status,Greek,"slave",2
+2599,"Efebarchos",Magistrature,Greek,"overseer of the youth",2
+1822,"Efebos",Status,Greek,"youth in a training in a Greek city",2
+1823,"Ekklesia",Institution,Greek,"Assembly of all male citizens in a Greek polis",2
+2317,"Eleutheria",Status,Greek,"liberty",2
+2171,"Eleutheros",Status,Greek,"free man",2
+2326,"Emporion",Location - place name,Greek,"trading-station, mart, factory",2
+6218,"Enadeus",Culture related,Greek,"Singers in a chorus ???",2
+6189,"Epikoinoi",Institution,Greek,"= boule kai demos",1792
+1824,"Episkopos",Magistrature,Greek,"overseer",2
+6810,"Epistole",Culture related,Greek,"a letter",2
+12367,"Fiskos",Financial,Roman,"Emperor's treasure, tax",1792
+3168,"Fylarchos",Military,Greek,"the commander of the cavalry furnished by each trib",1793
+1826,"Fylax",Magistrature,Greek,"guardian, watcher, guard, sentinel",2
+1827,"Fyle",Institution,Greek,"public clan, division of citizen of a Greek city",2
+1828,"Gerousia",Institution,Greek,"Council of Elders, senate",2
+9927,"Gerousiastes",Magistrature,Greek,"member of gerousia, council of elders",2
+9992,"Grafeus",Culture related,Greek,"private secretary, scribe",2
+6809,"Grammata",Culture related,Greek,"Letters",2
+1829,"Grammateus",Magistrature,Greek,"secretary, registrar",2
+1830,"Gymnasiarches",Magistrature,Greek,"superintendent of athletic training in gymnasia",2
+1831,"Gymnasion",Location - place name,Greek,"public place for male citizens, training and educational facility",2
+1832,"Hegemon",Magistrature,Greek,"leader, commander, chief / Roman Emperor, provincial governor",2
+2623,"Hegemonia",Institution,Greek,"authority, rule, presidency,political leadership / imperium",2
+8271,"Hippeus",Military,Greek,"Rider, soldier",2
+1834,"Horkos",Institution,Greek,"oath, either oral or written",2
+1835,"Horos",Location - place name,Greek,"boundary stone",2
+2922,"Hypatos",Magistrature,Roman,"greek translation of latin ""consul""",2
+1837,"Iatros",Other occupation,Greek,"doctor,one who heals, physician or surgeon",2
+3563,"Kaisar",Institution,Roman,"Caesar",1793
+1838,"Katoikia",Location - place name,Greek,"a military colony with some municipal institutions, but not those of a full Polis, settlement, colony",2
+8124,"Kenturion",Military,Roman,"Roman centurion",2
+1839,"Kerykes",Magistrature,Greek,"heralds",2
+7876,"Kleronomos",Status,Greek,"heir",2
+9468,"Komarchia",Institution,Greek,"collective magistracy of one village",2
+1840,"Kome",Location - place name,Greek,"a village, political unit",2
+8330,"Kometai",Status,Greek,"inhabitants of kome (village)",2
+7545,"Metropolis",Location - place name,Greek,"mother-city",1793
+15431,"Nauarchos",Military,Greek,"commander of a fleet, admiral",2
+2312,"Nomofylax",Magistrature,Greek,"guardian of law",2
+1842,"Nomos",Institution,Greek,"law, regulation",2
+1843,"Oikonomos",Magistrature,Greek,"financial manager, controller of the city expenses",2
+1844,"Oikos",Location - place name,Greek,"a household",2
+15054,"Paidagogos",Other occupation,Greek,"slave who went with a boy from home to school and back again",2
+2607,"Paideutes",Other occupation,Greek,"teacher, instructor",2
+2305,"Patris",Location - place name,Greek,"the homeland",2
+4772,"Patron",Other occupation,Roman,"patron",2
+11580,"Polemos",Military,Greek,"war",2
+1846,"Polis",Institution,Greek,"Greek city-state",2
+2320,"Politai",Status,Greek,"citizens",2
+1847,"Politeia",Institution,Greek,"a constitution",2
+8918,"Politeuomenon",Institution,Greek,"being polites, citizen",2
+3092,"Pontarches",Magistrature,Greek,"president of the provincial council of Pontus",2
+12477,"Pragmatikos",Magistrature,Greek,"agent, attorney",1792
+2306,"Presbeia",Institution,Greek,"office",2
+3408,"Presbein",Magistrature,Greek,"verb to be an ambassador or serve as one",2
+2585,"Presbeutes kai antistrategos",Magistrature,Roman,"legatus pro praetore",2
+2307,"Presbys",Magistrature,Greek,"an official",2
+1848,"Proedroi",Magistrature,Greek,"presiding officers",2
+3001,"Prosgrafos",Magistrature,Roman,"lat. adscripticus",2
+1850,"Prytaneis",Magistrature,Greek,"an executive board in a Greek polis, civil board",2
+1851,"Psefisma",Institution,Greek,"an official decision, issued by boule, ekklesia atc.",2
+1854,"Strategos",Military,Greek,"commanders, governors, magistates",2
+11603,"Strateuma",Military,Greek,"the army",2
+3177,"Stratiotes",Military,Greek,"soldier",1793
+1855,"Symmachia",Military,Greek,"a military alliance",2
+2624,"Symmachos",Military,Greek,"an ally",2
+9871,"Synarchia",Institution,Greek,"joint administration or government, collective magistracy",1792
+2309,"Synedrion",Institution,Greek,"body of Greek state",2
+16320,"Synedros",Magistrature,Greek,"one who sits with others, assessor, coadjutor, delegates to the assembly ",2
+12034,"Synkletikos",Magistrature,Roman,"senator",1792
+12150,"Synkletos",Institution,Greek,"(Roman) senate",1792
+3193,"Syntelonai",Financial,Greek,"Group of people paying taxes",2
+12353,"Tameion",Institution,Greek,"state treasury",1792
+1856,"Tamias",Magistrature,Greek,"treasurer",2
+6131,"Thrakarches",Magistrature,Roman,"high raking official",2
+2313,"Trapeza",Institution,Greek,"bank / financial institution",2
+2681,"Trierchia",Magistrature,Greek,"duty of paying triera",2
+12089,"Trierchos",Military,Greek,"captain",1792
+8531,"Veteranos|Ouetranos|Beteranos",Military,Roman,"Veteran, ex-soldier",2
+2635,"Xenos",Status,Greek,"foreigner",2

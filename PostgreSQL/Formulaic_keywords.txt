@@ -1,0 +1,50 @@
+Record ID,Formulae,Formulaic category,Origin,Short summary,Author or Creator >
+1902,"Agalma",Provision of display,Greek,"sculpture, statue",2
+1903,"Agathe tyche",Invocation,Greek,"May the Gods be with you... opening formula of any inscription, wishing good luck",2
+1904,"Anagrapsai",Provision of display,Greek,"the procedure of inscribing (on a stele)",2
+8743,"Anatheinai",Dedication,Greek,"verb to dedicate",2
+1905,"Anathema",Provision of display,Greek,"offering, usually in the form of sculpture, anything dedicated",2
+3446,"Anestesen",Provision of display,Greek,"verb to erect, to build, to make to stand up, to raise up",2
+1907,"Anetheken",Dedication,Greek,"dedicated",2
+1919,"Chaire",Invocation,Greek,"greeting",2
+1920,"Chairete",Invocation,Greek,"greeting, in plural",2
+2592,"Chalkoma",Provision of display,Greek,"metalic table",2
+1921,"Charin",Funerary,Greek,"in a favour, pleasure, sake",2
+1922,"Charisterion",Dedication,Greek,"thank offerings",2
+9141,"Choma",Provision of display,Greek,"mound",2
+9274,"Chomatikon",Provision of display,Greek,"small mound",2
+1908,"Dedochthai",Institutional,Greek,"""it was decided""",2
+2894,"Dis Manibus",Funerary,Roman,"Roman funerary formula, ""to the ghost-gods""",2
+1909,"Doron",Dedication,Greek,"present, dedication",2
+1910,"Edoxen",Institutional,Greek,"X and Y decided (boule and demos typically)",2
+8345,"Egrafe|Egrapsen",Institutional,Greek,"Put together, propose, write down",2
+1912,"Eis stelen lithinen",Provision of display,Greek,"on the stone stele",2
+1914,"Ektisen",Provision of display,Greek,"built",2
+2694,"Epegrapsen",Provision of display,Greek,"inscribed",2
+9387,"Epoiei",Other,Greek,"indicates authorship, who made it",2
+1916,"Epoiesen",Other,Greek,"Authorship",2
+4879,"Etheke",Dedication,Greek,"set up, dedicate",2
+1917,"Eucharisterion",Dedication,Greek,"thank-offering, dedication",2
+2351,"Euchen",Dedication,Greek,"prayer or vow",2
+9843,"Eutychos",Other,Greek,"a wish of success, fortune",1792
+1924,"Kateskeuasen",Other,Greek,"to make, authorship",2
+1925,"Keimai",Funerary,Greek,"is burried, lies here",2
+7038,"Kion",Provision of display,Greek,"column",2
+1926,"Larnax",Provision of display,Greek,"sarcophagus, chest",2
+3441,"Mneias",Funerary,Greek,"remembrance",2
+1927,"Mnema|Mneme",Funerary,Greek,"memorial, remembrance, record ",2
+1928,"Mnemeion",Funerary,Greek,"memorial, remembrance, record, reminders, monument ",2
+8347,"Mnemosyne",Funerary,Greek,"remembrance, memory",2
+1930,"Parodita|Parodeita",Invocation,Greek,"the passer-by",2
+1931,"Psefizomai",Institutional,Greek,"to decree, decide on something",2
+1932,"Sema",Funerary,Greek,"sign by which a grave is known, mound, cairn, barrow",2
+1933,"Stele",Provision of display,Greek,"stone stele, usually standing",2
+9264,"Steleida",Provision of display,Greek,"small stele",2
+1934,"Stesai",Provision of display,Greek,"to set up at some place",2
+1913,"Telamon",Provision of display,Greek,"stele",2
+1935,"Theke",Provision of display,Greek,"box, chest",2
+1936,"Theoi",Invocation,Greek,"opening formula of any inscription, written on moulding of an object, usually in bigger letters",2
+1937,"Theois Katachthoniois",Funerary,Greek,"Greek version of Dis Manibus, to the Gods beneath",2
+8351,"Tumulus",Provision of display,Greek,"burial mound",2
+7978,"Tymbeuein",Funerary,Greek,"to bury someone",2
+7974,"Tymbos",Funerary,Greek,"grave / mound",2
