@@ -56,9 +56,10 @@ Comments text
 
 create table epithet (
 epithetKey integer primary key,
+ShortSummary text,
 Epithet text,
-AuthorOrCreator text,
-ShortSummary text
+Characteristics text, 
+AuthorOrCreator text
 );
 
 \COPY epithet FROM 'Epithet.txt' WITH DELIMITER ',' CSV HEADER
