@@ -1,4 +1,4 @@
-Record ID,Epithet,Short summary,Character,Author or Creator >
+Record ID,Epithet,Short summary,Characteristics,Author or Creator >
 10541,"Adrasteia","epithet of Nemesis","Subregional","1792"
 11219,"Aenaos","epithet of Nymphs, everlasting","Regional","1793"
 4034,"Agoraios"," guardian of popular assemblies, patron of traffic","Regional","2"
