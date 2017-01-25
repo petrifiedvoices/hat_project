@@ -9,10 +9,10 @@ fivebc <- c(HAT_all_inscriptions_9Nov2016_xlsx$`5BC`) #defines the working categ
 ##########################CHANGE ACCORDINGLY########################
 #Dewar B
 #the selected and the following century dataset
-#fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc<1 & fivebc >0.49 & HAT_all_inscriptions_9Nov2016_xlsx$`4BC` >0)   #subsets only incriptions with the coeficient<1 AND >0.49, those that are dated to the fifth and the fourth century
+fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc<1 & fivebc >0.49 & HAT_all_inscriptions_9Nov2016_xlsx$`4BC` >0)   #subsets only incriptions with the coeficient<1 AND >0.49, those that are dated to the fifth and the fourth century
 
-#all five BC inscriptions
-fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc==1 | fivebc==0.5 & HAT_all_inscriptions_9Nov2016_xlsx$`4BC` >0)
+#subsets all inscriptions dated to fifth century, and to firth and fourth
+#fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc==1 | fivebc==0.5 & HAT_all_inscriptions_9Nov2016_xlsx$`4BC` >0)
 ###################################################################
 
 fivebcregiontable<- as.data.frame(table(fivebcanalysis$`Ancient Site -  Region`))
