@@ -1,0 +1,601 @@
+InputID,TargetID,Distance
+Perinthos,Selymbria,0.440654687601
+Perinthos,Bizye,0.632188324478
+Perinthos,Byzantion,1.00068492624
+Perinthos,Apollonia Pontica,1.46929122039
+Perinthos,Hadrianopolis,1.56205590251
+Perinthos,Mesambria Pontica,1.74291458734
+Perinthos,Sestos,1.74301546638
+Perinthos,Ainos,1.88585331921
+Perinthos,Kabyle,2.1684232855
+Perinthos,Odessos,2.24727671691
+Perinthos,Marcianopolis,2.29417865152
+Perinthos,Maroneia,2.43960750257
+Perinthos,Dionysopolis,2.44445716462
+Perinthos,Augusta Traiana,2.74590387829
+Perinthos,Abdera,2.9905460587
+Perinthos,Seuthopolis,3.12032171948
+Perinthos,Nicopolis ad Istrum,3.24751831002
+Perinthos,Philippopolis,3.41499570331
+Perinthos,Nicopolis ad Nestum,4.20626329461
+Perinthos,Parthicopolis,4.70992711367
+Perinthos,Heraclea Sintica,4.71705728474
+Perinthos,Serdica,4.94463491438
+Perinthos,Municipium Montanensium,5.31829901529
+Perinthos,Pautalia,5.43313702591
+Byzantion,Selymbria,0.604220767899
+Byzantion,Perinthos,1.00068492624
+Byzantion,Bizye,1.31464092709
+Byzantion,Apollonia Pontica,1.88244286477
+Byzantion,Mesambria Pontica,2.09312796114
+Byzantion,Odessos,2.43548581561
+Byzantion,Hadrianopolis,2.48341491324
+Byzantion,Dionysopolis,2.52756938321
+Byzantion,Marcianopolis,2.60861209692
+Byzantion,Sestos,2.69232072718
+Byzantion,Ainos,2.88410708038
+Byzantion,Kabyle,2.91722496183
+Byzantion,Maroneia,3.44020948173
+Byzantion,Augusta Traiana,3.61565568816
+Byzantion,Seuthopolis,3.98579350223
+Byzantion,Abdera,3.99082225298
+Byzantion,Nicopolis ad Istrum,4.00468414281
+Byzantion,Philippopolis,4.35591811342
+Byzantion,Nicopolis ad Nestum,5.19188444757
+Byzantion,Parthicopolis,5.69856802171
+Byzantion,Heraclea Sintica,5.70856973482
+Byzantion,Serdica,5.87904712571
+Byzantion,Municipium Montanensium,6.2058159333
+Byzantion,Pautalia,6.39890622811
+Selymbria,Perinthos,0.440654687601
+Selymbria,Byzantion,0.604220767899
+Selymbria,Bizye,0.740541735036
+Selymbria,Apollonia Pontica,1.44218110319
+Selymbria,Mesambria Pontica,1.69094335967
+Selymbria,Hadrianopolis,1.8808820109
+Selymbria,Odessos,2.127985467
+Selymbria,Sestos,2.18304509776
+Selymbria,Marcianopolis,2.23733988923
+Selymbria,Dionysopolis,2.28163754666
+Selymbria,Ainos,2.31474584343
+Selymbria,Kabyle,2.35998843999
+Selymbria,Maroneia,2.85642798198
+Selymbria,Augusta Traiana,3.02530836655
+Selymbria,Seuthopolis,3.39732797965
+Selymbria,Abdera,3.40422480944
+Selymbria,Nicopolis ad Istrum,3.45047773523
+Selymbria,Philippopolis,3.75287171189
+Selymbria,Nicopolis ad Nestum,4.59054129324
+Selymbria,Parthicopolis,5.09820449755
+Selymbria,Heraclea Sintica,5.1096092615
+Selymbria,Serdica,5.27732721979
+Selymbria,Municipium Montanensium,5.6140752933
+Selymbria,Pautalia,5.79469179626
+Augusta Traiana,Seuthopolis,0.3744183475
+Augusta Traiana,Nicopolis ad Istrum,0.79499459489
+Augusta Traiana,Kabyle,0.86765989482
+Augusta Traiana,Philippopolis,0.92112137495
+Augusta Traiana,Hadrianopolis,1.1983275611
+Augusta Traiana,Maroneia,1.52620482456
+Augusta Traiana,Abdera,1.62520571573
+Augusta Traiana,Ainos,1.75863243548
+Augusta Traiana,Nicopolis ad Nestum,2.00741217431
+Augusta Traiana,Apollonia Pontica,2.07493578254
+Augusta Traiana,Mesambria Pontica,2.10115618214
+Augusta Traiana,Marcianopolis,2.12195078798
+Augusta Traiana,Bizye,2.30258485381
+Augusta Traiana,Serdica,2.31934886177
+Augusta Traiana,Sestos,2.3323801664
+Augusta Traiana,Odessos,2.42535505453
+Augusta Traiana,Parthicopolis,2.49317767931
+Augusta Traiana,Heraclea Sintica,2.54732262588
+Augusta Traiana,Municipium Montanensium,2.59018951828
+Augusta Traiana,Dionysopolis,2.70307635545
+Augusta Traiana,Perinthos,2.74590387829
+Augusta Traiana,Pautalia,2.9450219134
+Augusta Traiana,Selymbria,3.02530836655
+Augusta Traiana,Byzantion,3.61565568816
+Mesambria Pontica,Apollonia Pontica,0.278532327266
+Mesambria Pontica,Marcianopolis,0.552671404934
+Mesambria Pontica,Odessos,0.561618233843
+Mesambria Pontica,Dionysopolis,0.833775789206
+Mesambria Pontica,Bizye,1.12386203108
+Mesambria Pontica,Kabyle,1.23414885135
+Mesambria Pontica,Hadrianopolis,1.53598068645
+Mesambria Pontica,Selymbria,1.69094335967
+Mesambria Pontica,Perinthos,1.74291458734
+Mesambria Pontica,Byzantion,2.09312796114
+Mesambria Pontica,Augusta Traiana,2.10115618214
+Mesambria Pontica,Nicopolis ad Istrum,2.16136284007
+Mesambria Pontica,Seuthopolis,2.40191304106
+Mesambria Pontica,Ainos,2.55254694508
+Mesambria Pontica,Sestos,2.81041492521
+Mesambria Pontica,Maroneia,2.83305667935
+Mesambria Pontica,Philippopolis,3.01198958083
+Mesambria Pontica,Abdera,3.25836245333
+Mesambria Pontica,Nicopolis ad Nestum,4.06417720146
+Mesambria Pontica,Serdica,4.38646026509
+Mesambria Pontica,Municipium Montanensium,4.53292496649
+Mesambria Pontica,Parthicopolis,4.5667265576
+Mesambria Pontica,Heraclea Sintica,4.61110718967
+Mesambria Pontica,Pautalia,5.04196085321
+Philippopolis,Seuthopolis,0.737010351274
+Philippopolis,Augusta Traiana,0.92112137495
+Philippopolis,Nicopolis ad Nestum,1.09747752467
+Philippopolis,Abdera,1.22395141219
+Philippopolis,Nicopolis ad Istrum,1.37912975609
+Philippopolis,Maroneia,1.4605928501
+Philippopolis,Serdica,1.52986716781
+Philippopolis,Parthicopolis,1.5732734235
+Philippopolis,Heraclea Sintica,1.63031977888
+Philippopolis,Kabyle,1.78378281165
+Philippopolis,Hadrianopolis,1.87265175443
+Philippopolis,Ainos,1.94847138715
+Philippopolis,Municipium Montanensium,1.9795618619
+Philippopolis,Pautalia,2.06923057056
+Philippopolis,Sestos,2.52613261035
+Philippopolis,Apollonia Pontica,2.96505163154
+Philippopolis,Mesambria Pontica,3.01198958083
+Philippopolis,Marcianopolis,3.04086190666
+Philippopolis,Bizye,3.0706307611
+Philippopolis,Odessos,3.34628157335
+Philippopolis,Perinthos,3.41499570331
+Philippopolis,Dionysopolis,3.6228193636
+Philippopolis,Selymbria,3.75287171189
+Philippopolis,Byzantion,4.35591811342
+Serdica,Municipium Montanensium,0.725508799369
+Serdica,Pautalia,0.760706369166
+Serdica,Parthicopolis,1.1305902078
+Serdica,Nicopolis ad Nestum,1.19867113068
+Serdica,Heraclea Sintica,1.23255650253
+Serdica,Philippopolis,1.52986716781
+Serdica,Seuthopolis,1.98712917659
+Serdica,Augusta Traiana,2.31934886177
+Serdica,Nicopolis ad Istrum,2.34757493417
+Serdica,Abdera,2.40715847875
+Serdica,Maroneia,2.83625576494
+Serdica,Kabyle,3.16260186856
+Serdica,Ainos,3.39460300629
+Serdica,Hadrianopolis,3.39659571443
+Serdica,Sestos,3.93977719141
+Serdica,Marcianopolis,4.29741775985
+Serdica,Mesambria Pontica,4.38646026509
+Serdica,Apollonia Pontica,4.38694617941
+Serdica,Bizye,4.58310161567
+Serdica,Odessos,4.62401274025
+Serdica,Dionysopolis,4.87250004097
+Serdica,Perinthos,4.94463491438
+Serdica,Selymbria,5.27732721979
+Serdica,Byzantion,5.87904712571
+Hadrianopolis,Kabyle,0.890027545659
+Hadrianopolis,Ainos,1.06149994454
+Hadrianopolis,Augusta Traiana,1.1983275611
+Hadrianopolis,Bizye,1.20839808578
+Hadrianopolis,Maroneia,1.29988746239
+Hadrianopolis,Apollonia Pontica,1.3597335301
+Hadrianopolis,Sestos,1.46812296344
+Hadrianopolis,Mesambria Pontica,1.53598068645
+Hadrianopolis,Perinthos,1.56205590251
+Hadrianopolis,Seuthopolis,1.57085087544
+Hadrianopolis,Abdera,1.75792143351
+Hadrianopolis,Nicopolis ad Istrum,1.81213223955
+Hadrianopolis,Marcianopolis,1.86638038469
+Hadrianopolis,Philippopolis,1.87265175443
+Hadrianopolis,Selymbria,1.8808820109
+Hadrianopolis,Odessos,2.05369289033
+Hadrianopolis,Dionysopolis,2.34610670115
+Hadrianopolis,Byzantion,2.48341491324
+Hadrianopolis,Nicopolis ad Nestum,2.76627945064
+Hadrianopolis,Parthicopolis,3.27942393353
+Hadrianopolis,Heraclea Sintica,3.30325854389
+Hadrianopolis,Serdica,3.39659571443
+Hadrianopolis,Municipium Montanensium,3.75636206133
+Hadrianopolis,Pautalia,3.92525006436
+Apollonia Pontica,Mesambria Pontica,0.278532327266
+Apollonia Pontica,Marcianopolis,0.825223336372
+Apollonia Pontica,Odessos,0.828821204416
+Apollonia Pontica,Bizye,0.846537468892
+Apollonia Pontica,Dionysopolis,1.08467055513
+Apollonia Pontica,Kabyle,1.22679352878
+Apollonia Pontica,Hadrianopolis,1.3597335301
+Apollonia Pontica,Selymbria,1.44218110319
+Apollonia Pontica,Perinthos,1.46929122039
+Apollonia Pontica,Byzantion,1.88244286477
+Apollonia Pontica,Augusta Traiana,2.07493578254
+Apollonia Pontica,Nicopolis ad Istrum,2.23703946374
+Apollonia Pontica,Ainos,2.33852410428
+Apollonia Pontica,Seuthopolis,2.40102476159
+Apollonia Pontica,Sestos,2.56390561232
+Apollonia Pontica,Maroneia,2.65842467973
+Apollonia Pontica,Philippopolis,2.96505163154
+Apollonia Pontica,Abdera,3.10955911066
+Apollonia Pontica,Nicopolis ad Nestum,3.98957933098
+Apollonia Pontica,Serdica,4.38694617941
+Apollonia Pontica,Parthicopolis,4.49771579681
+Apollonia Pontica,Heraclea Sintica,4.53652419412
+Apollonia Pontica,Municipium Montanensium,4.57723869695
+Apollonia Pontica,Pautalia,5.01843857633
+Odessos,Dionysopolis,0.295289757796
+Odessos,Marcianopolis,0.331431402173
+Odessos,Mesambria Pontica,0.561618233843
+Odessos,Apollonia Pontica,0.828821204416
+Odessos,Kabyle,1.57791140914
+Odessos,Bizye,1.65099582445
+Odessos,Hadrianopolis,2.05369289033
+Odessos,Selymbria,2.127985467
+Odessos,Perinthos,2.24727671691
+Odessos,Nicopolis ad Istrum,2.3055560668
+Odessos,Augusta Traiana,2.42535505453
+Odessos,Byzantion,2.43548581561
+Odessos,Seuthopolis,2.6761231969
+Odessos,Ainos,3.09223929433
+Odessos,Maroneia,3.33570771934
+Odessos,Philippopolis,3.34628157335
+Odessos,Sestos,3.36914130834
+Odessos,Abdera,3.72941735978
+Odessos,Nicopolis ad Nestum,4.4282359614
+Odessos,Serdica,4.62401274025
+Odessos,Municipium Montanensium,4.6876025168
+Odessos,Parthicopolis,4.91836191791
+Odessos,Heraclea Sintica,4.97103266012
+Odessos,Pautalia,5.31590981029
+Nicopolis ad Nestum,Parthicopolis,0.513313573093
+Nicopolis ad Nestum,Heraclea Sintica,0.547205015624
+Nicopolis ad Nestum,Philippopolis,1.09747752467
+Nicopolis ad Nestum,Serdica,1.19867113068
+Nicopolis ad Nestum,Pautalia,1.30793480408
+Nicopolis ad Nestum,Abdera,1.34167189266
+Nicopolis ad Nestum,Seuthopolis,1.82679718761
+Nicopolis ad Nestum,Maroneia,1.85608938489
+Nicopolis ad Nestum,Municipium Montanensium,1.90600407248
+Nicopolis ad Nestum,Augusta Traiana,2.00741217431
+Nicopolis ad Nestum,Nicopolis ad Istrum,2.434139444
+Nicopolis ad Nestum,Ainos,2.44944772943
+Nicopolis ad Nestum,Hadrianopolis,2.76627945064
+Nicopolis ad Nestum,Kabyle,2.85390676382
+Nicopolis ad Nestum,Sestos,2.93197734035
+Nicopolis ad Nestum,Bizye,3.96937266738
+Nicopolis ad Nestum,Apollonia Pontica,3.98957933098
+Nicopolis ad Nestum,Mesambria Pontica,4.06417720146
+Nicopolis ad Nestum,Marcianopolis,4.12883360268
+Nicopolis ad Nestum,Perinthos,4.20626329461
+Nicopolis ad Nestum,Odessos,4.4282359614
+Nicopolis ad Nestum,Selymbria,4.59054129324
+Nicopolis ad Nestum,Dionysopolis,4.70895179145
+Nicopolis ad Nestum,Byzantion,5.19188444757
+Parthicopolis,Heraclea Sintica,0.103044524872
+Parthicopolis,Nicopolis ad Nestum,0.513313573093
+Parthicopolis,Pautalia,0.934671148349
+Parthicopolis,Serdica,1.1305902078
+Parthicopolis,Philippopolis,1.5732734235
+Parthicopolis,Abdera,1.79550592116
+Parthicopolis,Municipium Montanensium,1.85067555233
+Parthicopolis,Seuthopolis,2.28244889871
+Parthicopolis,Maroneia,2.33071354835
+Parthicopolis,Augusta Traiana,2.49317767931
+Parthicopolis,Nicopolis ad Istrum,2.85357358856
+Parthicopolis,Ainos,2.92570678389
+Parthicopolis,Hadrianopolis,3.27942393353
+Parthicopolis,Kabyle,3.34917969817
+Parthicopolis,Sestos,3.38119801254
+Parthicopolis,Bizye,4.48181049361
+Parthicopolis,Apollonia Pontica,4.49771579681
+Parthicopolis,Mesambria Pontica,4.5667265576
+Parthicopolis,Marcianopolis,4.6141108557
+Parthicopolis,Perinthos,4.70992711367
+Parthicopolis,Odessos,4.91836191791
+Parthicopolis,Selymbria,5.09820449755
+Parthicopolis,Dionysopolis,5.19592520572
+Parthicopolis,Byzantion,5.69856802171
+Pautalia,Serdica,0.760706369166
+Pautalia,Parthicopolis,0.934671148349
+Pautalia,Heraclea Sintica,1.00329269403
+Pautalia,Municipium Montanensium,1.25974043182
+Pautalia,Nicopolis ad Nestum,1.30793480408
+Pautalia,Philippopolis,2.06923057056
+Pautalia,Seuthopolis,2.64598252641
+Pautalia,Abdera,2.64905335359
+Pautalia,Augusta Traiana,2.9450219134
+Pautalia,Nicopolis ad Istrum,3.07311449211
+Pautalia,Maroneia,3.15299726363
+Pautalia,Ainos,3.74194678721
+Pautalia,Kabyle,3.80843054143
+Pautalia,Hadrianopolis,3.92525006436
+Pautalia,Sestos,4.2380547844
+Pautalia,Marcianopolis,4.99366647437
+Pautalia,Apollonia Pontica,5.01843857633
+Pautalia,Mesambria Pontica,5.04196085321
+Pautalia,Bizye,5.1312613255
+Pautalia,Odessos,5.31590981029
+Pautalia,Perinthos,5.43313702591
+Pautalia,Dionysopolis,5.57353992777
+Pautalia,Selymbria,5.79469179626
+Pautalia,Byzantion,6.39890622811
+Sestos,Ainos,0.589245397
+Sestos,Maroneia,1.10365481218
+Sestos,Hadrianopolis,1.46812296344
+Sestos,Abdera,1.59097167132
+Sestos,Perinthos,1.74301546638
+Sestos,Bizye,1.93598824584
+Sestos,Selymbria,2.18304509776
+Sestos,Augusta Traiana,2.3323801664
+Sestos,Kabyle,2.34587948905
+Sestos,Philippopolis,2.52613261035
+Sestos,Apollonia Pontica,2.56390561232
+Sestos,Seuthopolis,2.63395947138
+Sestos,Byzantion,2.69232072718
+Sestos,Mesambria Pontica,2.81041492521
+Sestos,Nicopolis ad Nestum,2.93197734035
+Sestos,Nicopolis ad Istrum,3.09833134531
+Sestos,Marcianopolis,3.24800767224
+Sestos,Heraclea Sintica,3.35968052076
+Sestos,Odessos,3.36914130834
+Sestos,Parthicopolis,3.38119801254
+Sestos,Dionysopolis,3.64316700839
+Sestos,Serdica,3.93977719141
+Sestos,Pautalia,4.2380547844
+Sestos,Municipium Montanensium,4.49026725263
+Maroneia,Abdera,0.553015909088
+Maroneia,Ainos,0.595009951032
+Maroneia,Sestos,1.10365481218
+Maroneia,Hadrianopolis,1.29988746239
+Maroneia,Philippopolis,1.4605928501
+Maroneia,Augusta Traiana,1.52620482456
+Maroneia,Seuthopolis,1.73362237074
+Maroneia,Nicopolis ad Nestum,1.85608938489
+Maroneia,Kabyle,1.92052897594
+Maroneia,Nicopolis ad Istrum,2.31914584846
+Maroneia,Heraclea Sintica,2.32221076477
+Maroneia,Parthicopolis,2.33071354835
+Maroneia,Bizye,2.34692830249
+Maroneia,Perinthos,2.43960750257
+Maroneia,Apollonia Pontica,2.65842467973
+Maroneia,Mesambria Pontica,2.83305667935
+Maroneia,Serdica,2.83625576494
+Maroneia,Selymbria,2.85642798198
+Maroneia,Marcianopolis,3.11898823515
+Maroneia,Pautalia,3.15299726363
+Maroneia,Odessos,3.33570771934
+Maroneia,Municipium Montanensium,3.39812109032
+Maroneia,Byzantion,3.44020948173
+Maroneia,Dionysopolis,3.63038404309
+Nicopolis ad Istrum,Seuthopolis,0.669008472739
+Nicopolis ad Istrum,Augusta Traiana,0.79499459489
+Nicopolis ad Istrum,Kabyle,1.09049031879
+Nicopolis ad Istrum,Philippopolis,1.37912975609
+Nicopolis ad Istrum,Hadrianopolis,1.81213223955
+Nicopolis ad Istrum,Marcianopolis,1.97464543095
+Nicopolis ad Istrum,Mesambria Pontica,2.16136284007
+Nicopolis ad Istrum,Apollonia Pontica,2.23703946374
+Nicopolis ad Istrum,Odessos,2.3055560668
+Nicopolis ad Istrum,Maroneia,2.31914584846
+Nicopolis ad Istrum,Serdica,2.34757493417
+Nicopolis ad Istrum,Abdera,2.36976407365
+Nicopolis ad Istrum,Municipium Montanensium,2.38612793565
+Nicopolis ad Istrum,Nicopolis ad Nestum,2.434139444
+Nicopolis ad Istrum,Ainos,2.53692154559
+Nicopolis ad Istrum,Dionysopolis,2.53842061001
+Nicopolis ad Istrum,Bizye,2.71007207505
+Nicopolis ad Istrum,Parthicopolis,2.85357358856
+Nicopolis ad Istrum,Heraclea Sintica,2.9285279054
+Nicopolis ad Istrum,Pautalia,3.07311449211
+Nicopolis ad Istrum,Sestos,3.09833134531
+Nicopolis ad Istrum,Perinthos,3.24751831002
+Nicopolis ad Istrum,Selymbria,3.45047773523
+Nicopolis ad Istrum,Byzantion,4.00468414281
+Municipium Montanensium,Serdica,0.725508799369
+Municipium Montanensium,Pautalia,1.25974043182
+Municipium Montanensium,Parthicopolis,1.85067555233
+Municipium Montanensium,Nicopolis ad Nestum,1.90600407248
+Municipium Montanensium,Heraclea Sintica,1.95152440116
+Municipium Montanensium,Philippopolis,1.9795618619
+Municipium Montanensium,Seuthopolis,2.22172218908
+Municipium Montanensium,Nicopolis ad Istrum,2.38612793565
+Municipium Montanensium,Augusta Traiana,2.59018951828
+Municipium Montanensium,Abdera,3.02420007874
+Municipium Montanensium,Kabyle,3.35927261662
+Municipium Montanensium,Maroneia,3.39812109032
+Municipium Montanensium,Hadrianopolis,3.75636206133
+Municipium Montanensium,Ainos,3.92161234618
+Municipium Montanensium,Marcianopolis,4.35618701903
+Municipium Montanensium,Sestos,4.49026725263
+Municipium Montanensium,Mesambria Pontica,4.53292496649
+Municipium Montanensium,Apollonia Pontica,4.57723869695
+Municipium Montanensium,Odessos,4.6876025168
+Municipium Montanensium,Bizye,4.89261769826
+Municipium Montanensium,Dionysopolis,4.90910372713
+Municipium Montanensium,Perinthos,5.31829901529
+Municipium Montanensium,Selymbria,5.6140752933
+Municipium Montanensium,Byzantion,6.2058159333
+Ainos,Sestos,0.589245397
+Ainos,Maroneia,0.595009951032
+Ainos,Hadrianopolis,1.06149994454
+Ainos,Abdera,1.14038393273
+Ainos,Augusta Traiana,1.75863243548
+Ainos,Kabyle,1.87775630554
+Ainos,Bizye,1.88151175608
+Ainos,Perinthos,1.88585331921
+Ainos,Philippopolis,1.94847138715
+Ainos,Seuthopolis,2.04925399032
+Ainos,Selymbria,2.31474584343
+Ainos,Apollonia Pontica,2.33852410428
+Ainos,Nicopolis ad Nestum,2.44944772943
+Ainos,Nicopolis ad Istrum,2.53692154559
+Ainos,Mesambria Pontica,2.55254694508
+Ainos,Byzantion,2.88410708038
+Ainos,Heraclea Sintica,2.91656697174
+Ainos,Marcianopolis,2.92328353131
+Ainos,Parthicopolis,2.92570678389
+Ainos,Odessos,3.09223929433
+Ainos,Dionysopolis,3.38001706468
+Ainos,Serdica,3.39460300629
+Ainos,Pautalia,3.74194678721
+Ainos,Municipium Montanensium,3.92161234618
+Heraclea Sintica,Parthicopolis,0.103044524872
+Heraclea Sintica,Nicopolis ad Nestum,0.547205015624
+Heraclea Sintica,Pautalia,1.00329269403
+Heraclea Sintica,Serdica,1.23255650253
+Heraclea Sintica,Philippopolis,1.63031977888
+Heraclea Sintica,Abdera,1.78069161731
+Heraclea Sintica,Municipium Montanensium,1.95152440116
+Heraclea Sintica,Maroneia,2.32221076477
+Heraclea Sintica,Seuthopolis,2.34748057748
+Heraclea Sintica,Augusta Traiana,2.54732262588
+Heraclea Sintica,Ainos,2.91656697174
+Heraclea Sintica,Nicopolis ad Istrum,2.9285279054
+Heraclea Sintica,Hadrianopolis,3.30325854389
+Heraclea Sintica,Sestos,3.35968052076
+Heraclea Sintica,Kabyle,3.39859515029
+Heraclea Sintica,Bizye,4.50208191979
+Heraclea Sintica,Apollonia Pontica,4.53652419412
+Heraclea Sintica,Mesambria Pontica,4.61110718967
+Heraclea Sintica,Marcianopolis,4.66924218081
+Heraclea Sintica,Perinthos,4.71705728474
+Heraclea Sintica,Odessos,4.97103266012
+Heraclea Sintica,Selymbria,5.1096092615
+Heraclea Sintica,Dionysopolis,5.25030022159
+Heraclea Sintica,Byzantion,5.70856973482
+Kabyle,Augusta Traiana,0.86765989482
+Kabyle,Hadrianopolis,0.890027545659
+Kabyle,Nicopolis ad Istrum,1.09049031879
+Kabyle,Seuthopolis,1.1755392272
+Kabyle,Apollonia Pontica,1.22679352878
+Kabyle,Mesambria Pontica,1.23414885135
+Kabyle,Marcianopolis,1.29321107339
+Kabyle,Odessos,1.57791140914
+Kabyle,Bizye,1.61961218783
+Kabyle,Philippopolis,1.78378281165
+Kabyle,Dionysopolis,1.86406146588
+Kabyle,Ainos,1.87775630554
+Kabyle,Maroneia,1.92052897594
+Kabyle,Perinthos,2.1684232855
+Kabyle,Abdera,2.22157490664
+Kabyle,Sestos,2.34587948905
+Kabyle,Selymbria,2.35998843999
+Kabyle,Nicopolis ad Nestum,2.85390676382
+Kabyle,Byzantion,2.91722496183
+Kabyle,Serdica,3.16260186856
+Kabyle,Parthicopolis,3.34917969817
+Kabyle,Municipium Montanensium,3.35927261662
+Kabyle,Heraclea Sintica,3.39859515029
+Kabyle,Pautalia,3.80843054143
+Seuthopolis,Augusta Traiana,0.3744183475
+Seuthopolis,Nicopolis ad Istrum,0.669008472739
+Seuthopolis,Philippopolis,0.737010351274
+Seuthopolis,Kabyle,1.1755392272
+Seuthopolis,Hadrianopolis,1.57085087544
+Seuthopolis,Abdera,1.71825250474
+Seuthopolis,Maroneia,1.73362237074
+Seuthopolis,Nicopolis ad Nestum,1.82679718761
+Seuthopolis,Serdica,1.98712917659
+Seuthopolis,Ainos,2.04925399032
+Seuthopolis,Municipium Montanensium,2.22172218908
+Seuthopolis,Parthicopolis,2.28244889871
+Seuthopolis,Heraclea Sintica,2.34748057748
+Seuthopolis,Marcianopolis,2.35902623132
+Seuthopolis,Apollonia Pontica,2.40102476159
+Seuthopolis,Mesambria Pontica,2.40191304106
+Seuthopolis,Sestos,2.63395947138
+Seuthopolis,Pautalia,2.64598252641
+Seuthopolis,Bizye,2.6717234196
+Seuthopolis,Odessos,2.6761231969
+Seuthopolis,Dionysopolis,2.94170081228
+Seuthopolis,Perinthos,3.12032171948
+Seuthopolis,Selymbria,3.39732797965
+Seuthopolis,Byzantion,3.98579350223
+Bizye,Perinthos,0.632188324478
+Bizye,Selymbria,0.740541735036
+Bizye,Apollonia Pontica,0.846537468892
+Bizye,Mesambria Pontica,1.12386203108
+Bizye,Hadrianopolis,1.20839808578
+Bizye,Byzantion,1.31464092709
+Bizye,Kabyle,1.61961218783
+Bizye,Odessos,1.65099582445
+Bizye,Marcianopolis,1.67095906903
+Bizye,Dionysopolis,1.87276298907
+Bizye,Ainos,1.88151175608
+Bizye,Sestos,1.93598824584
+Bizye,Augusta Traiana,2.30258485381
+Bizye,Maroneia,2.34692830249
+Bizye,Seuthopolis,2.6717234196
+Bizye,Nicopolis ad Istrum,2.71007207505
+Bizye,Abdera,2.87141022349
+Bizye,Philippopolis,3.0706307611
+Bizye,Nicopolis ad Nestum,3.96937266738
+Bizye,Parthicopolis,4.48181049361
+Bizye,Heraclea Sintica,4.50208191979
+Bizye,Serdica,4.58310161567
+Bizye,Municipium Montanensium,4.89261769826
+Bizye,Pautalia,5.1312613255
+Dionysopolis,Odessos,0.295289757796
+Dionysopolis,Marcianopolis,0.583021794457
+Dionysopolis,Mesambria Pontica,0.833775789206
+Dionysopolis,Apollonia Pontica,1.08467055513
+Dionysopolis,Kabyle,1.86406146588
+Dionysopolis,Bizye,1.87276298907
+Dionysopolis,Selymbria,2.28163754666
+Dionysopolis,Hadrianopolis,2.34610670115
+Dionysopolis,Perinthos,2.44445716462
+Dionysopolis,Byzantion,2.52756938321
+Dionysopolis,Nicopolis ad Istrum,2.53842061001
+Dionysopolis,Augusta Traiana,2.70307635545
+Dionysopolis,Seuthopolis,2.94170081228
+Dionysopolis,Ainos,3.38001706468
+Dionysopolis,Philippopolis,3.6228193636
+Dionysopolis,Maroneia,3.63038404309
+Dionysopolis,Sestos,3.64316700839
+Dionysopolis,Abdera,4.02445532946
+Dionysopolis,Nicopolis ad Nestum,4.70895179145
+Dionysopolis,Serdica,4.87250004097
+Dionysopolis,Municipium Montanensium,4.90910372713
+Dionysopolis,Parthicopolis,5.19592520572
+Dionysopolis,Heraclea Sintica,5.25030022159
+Dionysopolis,Pautalia,5.57353992777
+Abdera,Maroneia,0.553015909088
+Abdera,Ainos,1.14038393273
+Abdera,Philippopolis,1.22395141219
+Abdera,Nicopolis ad Nestum,1.34167189266
+Abdera,Sestos,1.59097167132
+Abdera,Augusta Traiana,1.62520571573
+Abdera,Seuthopolis,1.71825250474
+Abdera,Hadrianopolis,1.75792143351
+Abdera,Heraclea Sintica,1.78069161731
+Abdera,Parthicopolis,1.79550592116
+Abdera,Kabyle,2.22157490664
+Abdera,Nicopolis ad Istrum,2.36976407365
+Abdera,Serdica,2.40715847875
+Abdera,Pautalia,2.64905335359
+Abdera,Bizye,2.87141022349
+Abdera,Perinthos,2.9905460587
+Abdera,Municipium Montanensium,3.02420007874
+Abdera,Apollonia Pontica,3.10955911066
+Abdera,Mesambria Pontica,3.25836245333
+Abdera,Selymbria,3.40422480944
+Abdera,Marcianopolis,3.48470440214
+Abdera,Odessos,3.72941735978
+Abdera,Byzantion,3.99082225298
+Abdera,Dionysopolis,4.02445532946
+Marcianopolis,Odessos,0.331431402173
+Marcianopolis,Mesambria Pontica,0.552671404934
+Marcianopolis,Dionysopolis,0.583021794457
+Marcianopolis,Apollonia Pontica,0.825223336372
+Marcianopolis,Kabyle,1.29321107339
+Marcianopolis,Bizye,1.67095906903
+Marcianopolis,Hadrianopolis,1.86638038469
+Marcianopolis,Nicopolis ad Istrum,1.97464543095
+Marcianopolis,Augusta Traiana,2.12195078798
+Marcianopolis,Selymbria,2.23733988923
+Marcianopolis,Perinthos,2.29417865152
+Marcianopolis,Seuthopolis,2.35902623132
+Marcianopolis,Byzantion,2.60861209692
+Marcianopolis,Ainos,2.92328353131
+Marcianopolis,Philippopolis,3.04086190666
+Marcianopolis,Maroneia,3.11898823515
+Marcianopolis,Sestos,3.24800767224
+Marcianopolis,Abdera,3.48470440214
+Marcianopolis,Nicopolis ad Nestum,4.12883360268
+Marcianopolis,Serdica,4.29741775985
+Marcianopolis,Municipium Montanensium,4.35618701903
+Marcianopolis,Parthicopolis,4.6141108557
+Marcianopolis,Heraclea Sintica,4.66924218081
+Marcianopolis,Pautalia,4.99366647437
