@@ -115,7 +115,7 @@ Record ID,Modern location,Ancient site,Ancient site - region,Temporal horizon,Au
 8723,"Dabovo",,"Anchialos",,2
 16084,"Dalakova Mogila",,"Augusta Traiana",,2
 7559,"Dalboki",,"Augusta Traiana",,2
-9287,"Daskalovo",,"Pautalia",,2
+9287,"Daskalovo - Carkva",,"Pautalia",,2
 8529,"Dazdets",,"Hadrianopolis",,2
 10539,"Debeli Lag",,"Pautalia",,1792
 11311,"Debrene",,"Vallis Strimonis medii",,1792
