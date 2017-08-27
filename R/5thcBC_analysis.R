@@ -4,12 +4,12 @@
 fivebc <- c(HAT_all_inscriptions_9Nov2016_xlsx$`5BC`) #defines the working category, this time inscriptions that are dated to the 5th c BC
 
 #Dewar A
-#fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
+fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
 
 ##########################CHANGE ACCORDINGLY########################
 #Dewar B
 #the selected and the following century dataset
-fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc<1 & fivebc >0.49 & HAT_all_inscriptions_9Nov2016_xlsx$`4BC` >0)   #subsets only incriptions with the coeficient<1 AND >0.49, those that are dated to the fifth and the fourth century
+#fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc<1 & fivebc >0.49 & HAT_all_inscriptions_9Nov2016_xlsx$`4BC` >0)   #subsets only incriptions with the coeficient<1 AND >0.49, those that are dated to the fifth and the fourth century
 
 #subsets all inscriptions dated to fifth century, and to firth and fourth
 #fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc==1 | fivebc==0.5 & HAT_all_inscriptions_9Nov2016_xlsx$`4BC` >0)

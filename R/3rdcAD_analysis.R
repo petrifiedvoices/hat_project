@@ -4,12 +4,12 @@
 threead <- c(HAT_all_inscriptions_9Nov2016_xlsx$`3AD`) #defines the working category
 
 #Dewar A
-#threeadanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, threead==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
+threeadanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, threead==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
 
 ##########################CHANGE ACCORDINGLY########################
 #Dewar B
 #the selected and the following century dataset
-threeadanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, threead<1 & threead >0.49 & HAT_all_inscriptions_9Nov2016_xlsx$`4AD` >0.49)   #subsets only incriptions with the coeficient<1 AND >0.49, those that are dated to the selected and the following century
+#threeadanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, threead<1 & threead >0.49 & HAT_all_inscriptions_9Nov2016_xlsx$`4AD` >0.49)   #subsets only incriptions with the coeficient<1 AND >0.49, those that are dated to the selected and the following century
 
 #threeadanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, threead==1 | threead==0.5 & HAT_all_inscriptions_9Nov2016_xlsx$`4AD` >0)
 ###################################################################

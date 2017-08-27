@@ -4,12 +4,12 @@
 onebc <- c(HAT_all_inscriptions_9Nov2016_xlsx$`1BC`) #defines the working category
 
 #Dewar A
-#onebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, onebc==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
+onebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, onebc==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
 
 ##########################CHANGE ACCORDINGLY########################
 #Dewar B
 #the selected and the following century dataset
-onebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, onebc<1 & onebc >0.49 & HAT_all_inscriptions_9Nov2016_xlsx$`1AD` >0.49)   #subsets only incriptions with the coeficient<1 AND >0.49, those that are dated to the selected and the following century
+#onebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, onebc<1 & onebc >0.49 & HAT_all_inscriptions_9Nov2016_xlsx$`1AD` >0.49)   #subsets only incriptions with the coeficient<1 AND >0.49, those that are dated to the selected and the following century
 
 #onebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, onebc==1 | onebc==0.5 & HAT_all_inscriptions_9Nov2016_xlsx$`1AD` >0)
 ###################################################################
