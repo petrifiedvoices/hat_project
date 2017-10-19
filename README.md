@@ -4,6 +4,8 @@
 **Petra Janouchová** (petra.janouchova@gmail.com)
 * Doctoral Candidate at Chales University, Prague, Czech Republic (2011-2017)
 * Researcher at Macquarie University, Sydney, Australia @ FAIMS Project (2016- )
+* Academia.edu: https://cuni.academia.edu/PetraJanouchova
+* Twitter: @pettulda
 
 ## The Aim:
 The database has been populated with epigraphic data from a geographic area broadly conceived as falling within Ancient Thrace in a manner that crosses national and linguistic boundaries, and with an emphasis on the spatio-temporal attributes of individual inscriptions. The database makes possible the quantified analysis of more than 4600 inscriptions and their attributes, and is available for use and reuse by other scholars in epigraphy, philology, archaeology and other disciplines.
@@ -17,5 +19,5 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 * Shapefiles - geospatial data, transformed from the raw data to the form of shapefile, ready to be use by GIS software, or plotted on the map
 
 ## Dissertation:
-* the link to the text of the dissertation, typeseeted with ConTeXt https://github.com/petrajanouchova/dis_context
-* to be submitted in September 2017 in Czech, English version is scheduled for 2018 
+* the link to the text of the dissertation, typesetted with ConTeXt https://github.com/petrajanouchova/dis_context
+* submitted in September 2017 in Czech, defense scheduled for late 2017, English version is scheduled for 2018 
