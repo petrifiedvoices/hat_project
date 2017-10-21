@@ -1,0 +1,2 @@
+ffmpeg -r 60 -f image2 -start_number 1 -s 1920x1080 -i %d.png -vcodec libx264 -crf 25  test.mp4
+
