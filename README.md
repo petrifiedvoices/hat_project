@@ -24,3 +24,7 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 
 ## Spatio-temporal overview of epigraphic production in Thrace (Carto timeline animation)
 https://petrajanouchova.carto.com/builder/a2dff8a7-2dbe-4d12-8fc2-15feb875fcea/embed
+
+<p align="left">
+  <img src="https://github.com/petrajanouchova/hat_project/blob/master/Temporal%20Animation/Carto/Carto_Inscriptions_299AD.png"/>
+</p>
