@@ -22,5 +22,5 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 * the link to the text of the dissertation, typesetted with ConTeXt https://github.com/petrajanouchova/dis_context
 * submitted in September 2017 in Czech, defense scheduled for late 2017, English version is scheduled for 2018 
 
-## Spatio-temporal overview of epigraphic production in Thrace (Carto Animation)
-<iframe width="100%" height="520" frameborder="0" src="https://petrajanouchova.carto.com/builder/a2dff8a7-2dbe-4d12-8fc2-15feb875fcea/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+## Spatio-temporal overview of epigraphic production in Thrace (Carto timeline animation)
+https://petrajanouchova.carto.com/builder/a2dff8a7-2dbe-4d12-8fc2-15feb875fcea/embed
