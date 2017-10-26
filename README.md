@@ -17,13 +17,14 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 * PostgreSQL - raw data and scripts enabling to recreate a data structure in PostgreSQL database
 * R - R scripts with data analysis and results
 * Shapefiles - geospatial data, transformed from the raw data to the form of shapefile, ready to be use by GIS software, or plotted on the map
+* Temporal Animation - Carto.com timeline presentation of dated inscriptions, the CSVs containing date and spatial information for all inscriptions, and Python script reshaping the data to the required format, written by Brian Ballsun-Stanton
 
 ## Dissertation:
 * the link to the text of the dissertation, typesetted with ConTeXt https://github.com/petrajanouchova/dis_context
 * submitted in September 2017 in Czech, defense scheduled for late 2017, English version is scheduled for 2018 
 
 ## Spatio-temporal overview of epigraphic production in Thrace (Carto timeline animation)
-https://petrajanouchova.carto.com/builder/a2dff8a7-2dbe-4d12-8fc2-15feb875fcea/embed
+https://petrajanouchova.carto.com/builder/09ff24c3-819d-4ceb-ab6d-bdc3f85c77e9/embed
 
 <p align="left">
   <img src="https://github.com/petrajanouchova/hat_project/blob/master/Temporal%20Animation/Carto/Carto_Inscriptions_299AD.png"/>
