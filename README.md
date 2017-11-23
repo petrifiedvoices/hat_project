@@ -1,5 +1,6 @@
 # The Hellenisation of Ancient Thrace Project
 OSF: https://osf.io/fjnw5/
+DOI: DOI 10.17605/OSF.IO/FJNW5
 
 ## Author: 
 **Petra Janouchová** (petra.janouchova@gmail.com)
