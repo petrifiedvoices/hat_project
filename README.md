@@ -24,8 +24,9 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 * Temporal Animation - Carto.com timeline presentation of dated inscriptions, the CSVs containing date and spatial information for all inscriptions, and Python script reshaping the data to the required format, written by Brian Ballsun-Stanton
 
 ## Dissertation:
-* the link to the text of the dissertation, typesetted with ConTeXt https://github.com/petrajanouchova/dis_context
-* Defense 14 Dec 2017 in Czech, English version is scheduled for 2018 
+* Link to the text of the dissertation (in Czech), typesetted with ConTeXt https://github.com/petrajanouchova/dis_context
+* Defense 14 Dec 2017 in Czech, English version of the text is scheduled for 2018 
+* Preliminary results published in various articles (access via OSF: https://osf.io/fjnw5/) 
 
 ## Spatio-temporal overview of epigraphic production in Thrace (Carto timeline animation)
 https://petrajanouchova.carto.com/builder/09ff24c3-819d-4ceb-ab6d-bdc3f85c77e9/embed
