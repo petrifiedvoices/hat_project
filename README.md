@@ -3,10 +3,10 @@ OSF: https://osf.io/fjnw5/
 DOI: 10.17605/OSF.IO/FJNW5
 
 ## Author: 
-**Petra Janouchová** (petra.janouchova@gmail.com)
+**Petra Janouchová, PhD** (petra.janouchova@gmail.com) OCID: <a href="https://orcid.org/0000-0002-6349-0540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6349-0540</a>
 * Doctoral Candidate at Chales University, Prague, Czech Republic (2011-2017)
 * Researcher at Macquarie University, Sydney, Australia @ FAIMS Project (2016- )
-* Academia.edu: https://cuni.academia.edu/PetraJanouchova
+* Academia.edu: https://mq.academia.edu/PetraJanouchova
 * Twitter: @pettulda
 
 ## The Aim:
@@ -23,7 +23,7 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 
 ## Dissertation:
 * the link to the text of the dissertation, typesetted with ConTeXt https://github.com/petrajanouchova/dis_context
-* submitted in September 2017 in Czech, defense scheduled for late 2017, English version is scheduled for 2018 
+* Defense 14 Dec 2017 in Czech, English version is scheduled for 2018 
 
 ## Spatio-temporal overview of epigraphic production in Thrace (Carto timeline animation)
 https://petrajanouchova.carto.com/builder/09ff24c3-819d-4ceb-ab6d-bdc3f85c77e9/embed
