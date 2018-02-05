@@ -3,7 +3,8 @@ OSF: https://osf.io/fjnw5/
 DOI: 10.17605/OSF.IO/FJNW5
 
 ## Author: 
-**Petra Janouchová, PhD** (petra.janouchova@gmail.com) <a href="https://orcid.org/0000-0002-6349-0540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6349-0540</a>
+**Petra Janouchová, PhD** (petra.janouchova@gmail.com) 
+<a href="https://orcid.org/0000-0002-6349-0540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6349-0540</a>
 * PhD, Charles University, Prague, Czech Republic (2011-2017)
 * Researcher at Macquarie University, Sydney, Australia @ FAIMS Project (2016- )
 * Academia.edu: https://mq.academia.edu/PetraJanouchova
