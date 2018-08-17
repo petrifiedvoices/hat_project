@@ -1,10 +1,10 @@
 
 #chronological analysis, subsets data by century, selects only inscriptions that has date certainty index for given century 1, therefore it subsects only the inscriptions that belong to the given century
 
-fivebc <- c(HAT_all_inscriptions_9Nov2016_xlsx$`5BC`) #defines the working category, this time inscriptions that are dated to the 5th c BC
+fivebc <- c(HAT_all_inscriptions_17Aug2018_xlsx$`5BC`) #defines the working category, this time inscriptions that are dated to the 5th c BC
 
 #Dewar A
-fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
+#fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
 
 ##########################CHANGE ACCORDINGLY########################
 #Dewar B
@@ -13,6 +13,19 @@ fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc==1)  #subset
 
 #subsets all inscriptions dated to fifth century, and to firth and fourth
 #fivebcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fivebc==1 | fivebc==0.5 & HAT_all_inscriptions_9Nov2016_xlsx$`4BC` >0)
+###################################################################
+
+#COAST vs INLAND analysis
+#Dewar A + base on their area> coast or inland
+
+#coast
+
+#subsets only incriptions with the coeficient=1, and found only on the coast
+#fivebcanalysis <- subset(HAT_all_inscriptions_17Aug2018_xlsx, fivebc==1 & HAT_all_inscriptions_17Aug2018_xlsx$Area == 'Coast')
+
+#inland
+fivebcanalysis <- subset(HAT_all_inscriptions_17Aug2018_xlsx, fivebc==1 & HAT_all_inscriptions_17Aug2018_xlsx$Area == 'Inland')  #subsets only incriptions with the coeficient=1, and found only inland
+
 ###################################################################
 
 fivebcregiontable<- as.data.frame(table(fivebcanalysis$`Ancient Site -  Region`))
@@ -61,6 +74,10 @@ fivebccommunity <- as.data.frame(table(fivebcanalysis$`Context Names`))
 colnames(fivebccommunity) <- c('Origin of name','Freq','Percentage')
 fivebccommunity$Percentage <-(fivebccommunity / sum (fivebccommunity$Freq) * 100)
 
+nameGreek <-sum(fivebcanalysis$`Greek total`)
+nameThracian <-sum(fivebcanalysis$`Thracian total`)
+nameRoman <-sum(fivebcanalysis$`Roman total`)
+nameOther <-sum(fivebcanalysis$`Uncertain total`)
 
 
 

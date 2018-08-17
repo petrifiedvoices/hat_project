@@ -1,10 +1,10 @@
 
 #chronological analysis, subsets data by century, selects only inscriptions that has date certainty index for given century 1, therefore it subsects only the inscriptions that belong to the given century
 
-twobc <- c(HAT_all_inscriptions_9Nov2016_xlsx$`2BC`) #defines the working category
+twobc <- c(HAT_all_inscriptions_17Aug2018_xlsx$`2BC`) #defines the working category
 
 #Dewar A
-twobcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, twobc==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
+#twobcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, twobc==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
 
 ##########################CHANGE ACCORDINGLY########################
 #Dewar B
@@ -12,6 +12,19 @@ twobcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, twobc==1)  #subsets 
 #twobcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, twobc<1 & twobc >0.49 & HAT_all_inscriptions_9Nov2016_xlsx$`1BC` >0.49)   #subsets only incriptions with the coeficient<1 AND >0.49, those that are dated to the selected and the following century
 
 #twobcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx,twobc==1 | twobc==0.5 & HAT_all_inscriptions_9Nov2016_xlsx$`1BC` >0)
+###################################################################
+
+#COAST vs INLAND analysis
+#Dewar A + base on their area> coast or inland
+
+#coast
+
+#subsets only incriptions with the coeficient=1, and found only on the coast
+#twobcanalysis <- subset(HAT_all_inscriptions_17Aug2018_xlsx, twobc==1 & HAT_all_inscriptions_17Aug2018_xlsx$Area == 'Coast')
+
+#inland
+twobcanalysis <- subset(HAT_all_inscriptions_17Aug2018_xlsx, twobc==1 & HAT_all_inscriptions_17Aug2018_xlsx$Area == 'Inland')  #subsets only incriptions with the coeficient=1, and found only inland
+
 ###################################################################
 
 twobcregiontable<- as.data.frame(table(twobcanalysis$`Ancient Site -  Region`))
@@ -40,7 +53,7 @@ twobctype <- as.data.frame(table(twobcanalysis$`Document typology`))
 twobcprivate <- as.data.frame(table(twobcanalysis$`Private documents`))
 twobcpublic <- as.data.frame(table(twobcanalysis$`Public documents`))
 twobcextent <- summary(twobcanalysis$`Extent of lines`)
-twobcbcmin <-as.data.frame(table(twobcanalysis$`bcministrative keywords`))
+twobcbcadmin <-as.data.frame(table(twobcanalysis$`Administrative keywords`))
 twobcformulaic <- as.data.frame(table(twobcanalysis$`Formulaic keywords`))
 twobchonorific <- as.data.frame(table(twobcanalysis$`Honorific keywords`))
 twobcreligious <- as.data.frame(table(twobcanalysis$`Religious keywords`))
@@ -60,7 +73,10 @@ twobccommunity <- as.data.frame(table(twobcanalysis$`Context Names`))
 colnames(twobccommunity) <- c('Origin of name','Freq','Percentage')
 twobccommunity$Percentage <-(twobccommunity / sum (twobccommunity$Freq) * 100)
 
-
+nameGreek <-sum(twobcanalysis$`Greek total`)
+nameThracian <-sum(twobcanalysis$`Thracian total`)
+nameRoman <-sum(twobcanalysis$`Roman total`)
+nameOther <-sum(twobcanalysis$`Uncertain total`)
 
 
 

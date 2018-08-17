@@ -1,10 +1,10 @@
 
 #chronological analysis, subsets data by century, selects only inscriptions that has date certainty index for given century 1, therefore it subsects only the inscriptions that belong to the given century
 
-sixbc <- c(HAT_all_inscriptions_9Nov2016_xlsx$`6BC`) #defines the working category, this time inscriptions that are dated to the 5th c BC
+sixbc <- c(HAT_all_inscriptions_17Aug2018_xlsx$`6BC and more`) #defines the working category, this time inscriptions that are dated to the 5th c BC
 
 #Dewar A
-sixbcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, sixbc==1 | sixbc==0.5 & HAT_all_inscriptions_9Nov2016_xlsx$`5BC` >0.33)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
+#sixbcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, sixbc==1 | sixbc==0.5 & HAT_all_inscriptions_9Nov2016_xlsx$`5BC` >0.33)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
 
 ##########################CHANGE ACCORDINGLY########################
 #Dewar B
@@ -15,6 +15,20 @@ sixbcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, sixbc==1 | sixbc==0.
 #the selected and the  preceeding century dataset
 #sixbcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, sixbc<1 & sixbc >0.5)  #subsets only incriptions with the coeficient<1 AND >0.5, those that are dated to the sixth and the seventh century
 ###################################################################
+
+#COAST vs INLAND analysis
+#Dewar A + base on their area> coast or inland
+
+#coast
+
+#subsets only incriptions with the coeficient=1, and found only on the coast
+#sixbcanalysis <- subset(HAT_all_inscriptions_17Aug2018_xlsx, sixbc==1 & HAT_all_inscriptions_17Aug2018_xlsx$Area == 'Coast')
+
+#inland
+sixbcanalysis <- subset(HAT_all_inscriptions_17Aug2018_xlsx, sixbc==1 & HAT_all_inscriptions_17Aug2018_xlsx$Area == 'Inland')  #subsets only incriptions with the coeficient=1, and found only inland
+
+###################################################################
+
 
 sixbcregiontable<- as.data.frame(table(sixbcanalysis$`Ancient Site -  Region`))
 colnames(sixbcregiontable) <- c('Var1','Freq','Percentage')
@@ -62,7 +76,10 @@ sixbccommunity <- as.data.frame(table(sixbcanalysis$`Context Names`))
 colnames(sixbccommunity) <- c('Origin of name','Freq','Percentage')
 sixbccommunity$Percentage <-(sixbccommunity / sum (sixbccommunity$Freq) * 100)
 
-
+nameGreek <-sum(sixbcanalysis$`Greek total`)
+nameThracian <-sum(sixbcanalysis$`Thracian total`)
+nameRoman <-sum(sixbcanalysis$`Roman total`)
+nameOther <-sum(sixbcanalysis$`Uncertain total`)
 
 
 

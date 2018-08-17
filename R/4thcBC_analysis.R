@@ -1,10 +1,10 @@
 
 #chronological analysis, subsets data by century, selects only inscriptions that has date certainty index for given century 1, therefore it subsects only the inscriptions that belong to the given century
 
-fourbc <- c(HAT_all_inscriptions_9Nov2016_xlsx$`4BC`) #defines the working category
+fourbc <- c(HAT_all_inscriptions_17Aug2018_xlsx$`4BC`) #defines the working category
 
 #Dewar A
-fourbcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fourbc==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
+#fourbcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fourbc==1)  #subsets only incriptions with the coeficient=1, those that are dated only to one century, the most certain and probable
 
 ##########################CHANGE ACCORDINGLY########################
 #Dewar B
@@ -14,6 +14,18 @@ fourbcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fourbc==1)  #subset
 #only inscriptions dated to two centuries
 #fourbcanalysis <- subset(HAT_all_inscriptions_9Nov2016_xlsx, fourbc >0.49 & HAT_all_inscriptions_9Nov2016_xlsx$`3BC` >0.49)
 ###################################################################
+
+#COAST vs INLAND analysis
+#Dewar A + base on their area> coast or inland
+
+#coast
+
+#subsets only incriptions with the coeficient=1, and found only on the coast
+#fourbcanalysis <- subset(HAT_all_inscriptions_17Aug2018_xlsx, fourbc==1 & HAT_all_inscriptions_17Aug2018_xlsx$Area == 'Coast')
+
+#inland
+fourbcanalysis <- subset(HAT_all_inscriptions_17Aug2018_xlsx, fourbc==1 & HAT_all_inscriptions_17Aug2018_xlsx$Area == 'Inland')  #subsets only incriptions with the coeficient=1, and found only inland
+##############################
 
 fourbcregiontable<- as.data.frame(table(fourbcanalysis$`Ancient Site -  Region`))
 colnames(fourbcregiontable) <- c('Var1','Freq','Percentage')
@@ -61,7 +73,10 @@ fourbccommunity <- as.data.frame(table(fourbcanalysis$`Context Names`))
 colnames(fourbccommunity) <- c('Origin of name','Freq','Percentage')
 fourbccommunity$Percentage <-(fourbccommunity / sum (fourbccommunity$Freq) * 100)
 
-
+nameGreek <-sum(fourbcanalysis$`Greek total`)
+nameThracian <-sum(fourbcanalysis$`Thracian total`)
+nameRoman <-sum(fourbcanalysis$`Roman total`)
+nameOther <-sum(fourbcanalysis$`Uncertain total`)
 
 
 
