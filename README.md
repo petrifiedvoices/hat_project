@@ -3,12 +3,13 @@ OSF: https://osf.io/fjnw5/
 DOI: 10.17605/OSF.IO/FJNW5
 
 ## Author: 
-**Petra Janouchová, PhD** (petra.janouchova@gmail.com) 
+**Petra Heřmánková (Janouchová), PhD** (petra.janouchova@gmail.com) 
 
 <a href="https://orcid.org/0000-0002-6349-0540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6349-0540</a>
 * PhD, Charles University, Prague, Czech Republic (2011-2017)
-* Researcher at Macquarie University, Sydney, Australia @ FAIMS Project (2016- )
-* Academia.edu: https://mq.academia.edu/PetraJanouchova
+* Researcher at Macquarie University, Sydney, Australia @ FAIMS Project (2016-2018)
+* Postdoc at Aarhus University, Denmark @ SDAM Project (2019-2022)
+* Academia.edu: https://au.academia.edu/PetraHermankova
 * Twitter: @pettulda
 
 ## The Aim:
@@ -24,9 +25,9 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 * Temporal Animation - Carto.com timeline presentation of dated inscriptions, the CSVs containing date and spatial information for all inscriptions, and Python script reshaping the data to the required format, written by Brian Ballsun-Stanton
 
 ## Dissertation:
-* Link to the text of the dissertation (in Czech), typesetted with ConTeXt https://github.com/petrajanouchova/dis_context
-* Defense 14 Dec 2017 in Czech, English version of the text is scheduled for 2018 
-* Preliminary results published in various articles (access via OSF: https://osf.io/fjnw5/) 
+* Link to the text of the dissertation (in Czech), typesetted with ConTeXt https://github.com/petrifiedvoices/dis_context
+* Defense 14 Dec 2017 in Czech, English version of the text is scheduled for 2020 
+* Preliminary results published in various articles (access via OSF: https://osf.io/fjnw5/), contact me for more
 
 ## Spatio-temporal overview of epigraphic production in Thrace (Carto timeline animation)
 https://petrajanouchova.carto.com/builder/09ff24c3-819d-4ceb-ab6d-bdc3f85c77e9/embed
