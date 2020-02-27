@@ -17,12 +17,13 @@ The database has been populated with epigraphic data from a geographic area broa
 The data has been primarily collected for the PhD project _Hellenisation of Ancient Thrace_ based at Charles University, conducted by Petra Janouchová.
 
 ## Structure of the repository:
-* Appendices - the appendices with the result of analyses generated for the dissertation submitted at the Charles University in Prague (mostly in Czech, but English one will be added)
-* CSV Data Export - CSVs with raw data as exported from Heurist Scholar
-* PostgreSQL - raw data and scripts enabling to recreate a data structure in PostgreSQL database
-* R - R scripts with data analysis and results
-* Shapefiles - geospatial data, transformed from the raw data to the form of shapefile, ready to be use by GIS software, or plotted on the map
-* Temporal Animation - Carto.com timeline presentation of dated inscriptions, the CSVs containing date and spatial information for all inscriptions, and Python script reshaping the data to the required format, written by Brian Ballsun-Stanton
+* ```Appendices``` - the appendices with the result of analyses generated for the dissertation submitted at the Charles University in Prague (mostly in Czech)
+* ```CSV Data Export``` - CSVs with raw data as exported from Heurist Scholar
+* ```Metadata``` - descriptions of contents of the database and interpretations of the material
+* ```PostgreSQL``` - raw data and scripts enabling to recreate a data structure in PostgreSQL database
+* ```R``` - R scripts with data analysis and results, separate README file explaining the dataset and analyses
+* ```Shapefiles``` - geospatial data, transformed from the raw data to the form of shapefile, ready to be use by GIS software, or plotted on the map
+* ```Temporal Animation``` - Carto.com timeline presentation of dated inscriptions, the CSVs containing date and spatial information for all inscriptions, and Python script reshaping the data to the required format, written by Brian Ballsun-Stanton
 
 ## Dissertation:
 * Link to the text of the dissertation (in Czech), typesetted with ConTeXt https://github.com/petrifiedvoices/dis_context
@@ -30,7 +31,7 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 * Preliminary results published in various articles (access via OSF: https://osf.io/fjnw5/), contact me for more
 
 ## Spatio-temporal overview of epigraphic production in Thrace (Carto timeline animation)
-https://petrajanouchova.carto.com/builder/09ff24c3-819d-4ceb-ab6d-bdc3f85c77e9/embed
+[Carto spatio-temporal animation](https://petrajanouchova.carto.com/builder/09ff24c3-819d-4ceb-ab6d-bdc3f85c77e9/embed)
 
 <p align="left">
   <img src="https://github.com/petrajanouchova/hat_project/blob/master/Temporal%20Animation/Carto/Carto_Inscriptions_299AD.png"/>
