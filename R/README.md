@@ -12,9 +12,6 @@ This document specifies the contents of the hat_project/R folder.
 HAT_R.RProj - Rstudio project, the current working space 
 
 
-
-
-
 -------------------------
 ## Data
 
@@ -25,7 +22,8 @@ HAT_R.RProj - Rstudio project, the current working space
 - updated version of the main source of data / truth is 'HAT_all_inscriptions_17Aug2018.xlsx' which was created post-PhD defense with some minor changes to the dataset (fixed mistakes, typos), the process of cleaning was not recorded by script, therefore it goes against the FAIR data principles. The new updated dataset from 2018 was mostly used to replicate and test the viability of scripts, and should not be used as a main source of data. The main source of truth remains the 'HAT_all_inscriptions_9Nov2016.xlsx.xlsx' until specified otherwise.
 
 
-### Source of truth (```HAT_all_inscriptions_9Nov2016.xlsx```)
+### Source of truth 
+The source of truth of all R analyses is (```HAT_all_inscriptions_9Nov2016.xlsx```)
 
 This paragraph further specified what the individual tabs within the ```HAT_all_inscriptions_9Nov2016.xlsx``` mean and in what part of analysis they were used. The table is a prime example of how the spreasheet should not be used in a scientific world (multiple tabs, spaces in names, charts as part of the table, multiple tables per tab...), however it has been submitted as part of the doctoral dissertation and some of the analysis and discussion has been based on the spreadsheet.
 The author will try to disambiguate as much as possible, to make at least some parts of the process reproducible.

@@ -1,4 +1,4 @@
-# PostgreSQL
+# PostgreSQL - load the data into your own instance of PotgreSQL database
 
 This document specifies the contents of the hat_project/PostgreSQL folder.
 
