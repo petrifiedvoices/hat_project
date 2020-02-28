@@ -1,8 +1,8 @@
 # The Hellenisation of Ancient Thrace Project 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png "Creative Commons License CC BY-NC-SA 4.0")](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
--DOI: 10.17605/OSF.IO/FJNW5
--OSF: https://osf.io/fjnw5/
+- DOI: 10.17605/OSF.IO/FJNW5
+- OSF: https://osf.io/fjnw5/
 
 ## Author: 
 **Petra Heřmánková (Janouchová), PhD** (petra.janouchova@gmail.com) 
