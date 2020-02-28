@@ -1,11 +1,11 @@
-# Hellenisation of Ancient Thrace - analysis of isncriptions in R
+# Hellenisation of Ancient Thrace - analysis of inscriptions in R
 
 Petra Hermankova, Feb 2020
 
 This document specifies the contents of the hat_project/R folder.
 
 
-```data``` folder contains all datasets used to analyse in order to produce a PhD disertation in its original format, with all original flaws
+```data``` folder contains all datasets used to analyse in order to produce a PhD disertation in its original format, with all original flaws and research design caveats
 
 ```scripts``` folder contains all scripts used to analysed ```data```, individual scripts are commented within the scripts themselves
 

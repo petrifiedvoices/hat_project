@@ -22,7 +22,7 @@ The data has been primarily collected for the PhD project _Hellenisation of Anci
 * ```Metadata``` - descriptions of contents of the database and interpretations of the material
 * ```PostgreSQL``` - raw data and scripts enabling to recreate a data structure in PostgreSQL database
 * ```R``` - R scripts with data analysis and results, separate README file explaining the dataset and analyses
-* ```Shapefiles``` - geospatial data, transformed from the raw data to the form of shapefile, ready to be use by GIS software, or plotted on the map
+* ```Shapefiles``` - geospatial data, transformed from the raw data to the form of shapefile, ready to be use by GIS software, or plotted on the map, separate README explaining the origin
 * ```Temporal Animation``` - Carto.com timeline presentation of dated inscriptions, the CSVs containing date and spatial information for all inscriptions, and Python script reshaping the data to the required format, written by Brian Ballsun-Stanton
 
 ## Dissertation:
