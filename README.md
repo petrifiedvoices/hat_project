@@ -5,12 +5,12 @@
 - OSF: https://osf.io/fjnw5/
 
 ## Author: 
-**Petra Heřmánková (Janouchová), PhD** (petra.janouchova@gmail.com) 
+**Petra Heřmánková (Janouchová), PhD** (petra.janouchova @ gmail.com) 
 
 <a href="https://orcid.org/0000-0002-6349-0540" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6349-0540</a>
 * PhD, Charles University, Prague, Czech Republic (2011-2017)
 * Researcher at Macquarie University, Sydney, Australia @ FAIMS Project (2016-2018)
-* Postdoc at Aarhus University, Denmark @ SDAM Project (2019-2022)
+* Postdoc at Aarhus University, Denmark @ SDAM Project (2019-2023)
 * Academia.edu: https://au.academia.edu/PetraHermankova
 * Twitter: @pettulda
 
