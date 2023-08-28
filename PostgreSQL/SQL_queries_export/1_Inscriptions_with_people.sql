@@ -5,11 +5,13 @@ Each inscription can have multiple epigraphic persons, and epigraphic person can
 SELECT
     ii.corpusname,ii.corpusidnumeric,
     ep.PersonalName AS PersonName,
-    ep.Ethnicity,
-    ep.Gender
+    pn.Ethnicity,
+    pn.Gender
 FROM
     inscription_info AS ii
 LEFT JOIN
     inscriptionPerson AS ip ON ii.inscriptionKey = ip.inscriptionKey
 LEFT JOIN
-    epigraphic_person AS ep ON ip.personKey = ep.personKey;
+    epigraphic_person AS ep ON ip.personKey = ep.personKey
+LEFT JOIN
+    personal_name as pn USING (PersonalName);

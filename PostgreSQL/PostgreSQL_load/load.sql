@@ -1,9 +1,7 @@
 \c template1
-drop database hat;
+drop database if exists hat;
 create database hat;
 \c hat
-
-\cd '/home/petra/Github/hat_project/PostgreSQL/PostgreSQL_load/'
 
 create extension "postgis";
 
@@ -16,7 +14,7 @@ ShortSummary text,
 AuthorOrCreator text
 );
 
-\COPY administrative_keywords FROM 'Administrative_keywords.txt' WITH DELIMITER ',' CSV HEADER
+\COPY administrative_keywords FROM 'Administrative_keywords.csv' WITH DELIMITER ',' CSV HEADER
 
 create table collective_name (
 collectiveKey integer primary key,
@@ -30,7 +28,7 @@ AuthorOrCreator text
 );
 
 
-\COPY collective_name FROM 'Collective_Name.txt' WITH DELIMITER ',' CSV HEADER
+\COPY collective_name FROM 'Collective_Name.csv' WITH DELIMITER ',' CSV HEADER
 
 alter table collective_name add column mapLocText text;
 
@@ -54,7 +52,7 @@ GrandparentName text,
 Comments text
 );
 
-\COPY epigraphic_person FROM 'Epigraphic_Person.txt' WITH DELIMITER ',' CSV HEADER
+\COPY epigraphic_person FROM 'Epigraphic_Person.csv' WITH DELIMITER ',' CSV HEADER
 
 create table epithet (
 epithetKey integer primary key,
@@ -64,7 +62,7 @@ Characteristics text,
 AuthorOrCreator text
 );
 
-\COPY epithet FROM 'Epithet.txt' WITH DELIMITER ',' CSV HEADER
+\COPY epithet FROM 'Epithet.csv' WITH DELIMITER ',' CSV HEADER
 
 create table formulaic_keywords (
 formKey	integer primary key,
@@ -75,7 +73,7 @@ ShortSummary text,
 AuthorOrCreator text
 );
 
-\COPY formulaic_keywords FROM 'Formulaic_keywords.txt' WITH DELIMITER ',' CSV HEADER
+\COPY formulaic_keywords FROM 'Formulaic_keywords.csv' WITH DELIMITER ',' CSV HEADER
 
 create table honorific_keywords (
 honorKey	integer primary key,
@@ -86,7 +84,7 @@ ShortSummary text,
 AuthorOrCreator text
 );
 
-\COPY honorific_keywords FROM 'Honorific_keywords.txt' WITH DELIMITER ',' CSV HEADER
+\COPY honorific_keywords FROM 'Honorific_keywords.csv' WITH DELIMITER ',' CSV HEADER
  
 create table religious_keywords (
 religKey	integer primary key,
@@ -97,7 +95,7 @@ ShortSummary text,
 AuthorOrCreator text
 );
 
-\COPY religious_keywords FROM 'Religious_keywords.txt' WITH DELIMITER ',' CSV HEADER
+\COPY religious_keywords FROM 'Religious_keywords.csv' WITH DELIMITER ',' CSV HEADER
 
 create table location (
 locKey	integer primary key,
@@ -108,7 +106,7 @@ TemporalHorizon text,
 AuthorOrCreator text
 );
 
-\COPY location FROM 'Location.txt' WITH DELIMITER ',' CSV HEADER
+\COPY location FROM 'Location.csv' WITH DELIMITER ',' CSV HEADER
 
 create table personal_name (
 nameKey	integer primary key,
@@ -122,7 +120,7 @@ Source text,
 AuthorOrCreator text
 );
 
-\COPY personal_name FROM 'Personal_Name.txt' WITH DELIMITER ',' CSV HEADER
+\COPY personal_name FROM 'Personal_Name.csv' WITH DELIMITER ',' CSV HEADER
 
 create table geographic_name (
 geoKey	integer primary key,
@@ -137,7 +135,7 @@ AuthorOrCreator text
 
 
 
-\COPY geographic_name FROM 'Geographic_Name.txt' WITH DELIMITER ',' CSV HEADER
+\COPY geographic_name FROM 'Geographic_Name.csv' WITH DELIMITER ',' CSV HEADER
 
 alter table geographic_name add column mapLocText text;
 
@@ -204,7 +202,7 @@ Person text,
 VisualDocumentation text
 );
 
-\COPY inscription_info FROM 'Inscription_Info.txt' WITH DELIMITER ',' CSV HEADER
+\COPY inscription_info FROM 'Inscription_Info.csv' WITH DELIMITER ',' CSV HEADER
 
 
 create table adminInscription (
