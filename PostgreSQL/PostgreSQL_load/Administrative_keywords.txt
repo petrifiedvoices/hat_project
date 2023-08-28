@@ -42,7 +42,7 @@ Record ID,Administrative keywords,Category Admin keyword,Origin,Short summary,Au
 1824,"Episkopos",Magistrature,Greek,"overseer",2
 6810,"Epistole",Culture related,Greek,"a letter",2
 12367,"Fiskos",Financial,Roman,"Emperor's treasure, tax",1792
-3168,"Fylarchos",Military,Greek,"the commander of the cavalry furnished by each trib",1793
+3168,"Fylarchos",Military,Greek,"the commander of the cavalry furnished by each tribe",1793
 1826,"Fylax",Magistrature,Greek,"guardian, watcher, guard, sentinel",2
 1827,"Fyle",Institution,Greek,"public clan, division of citizen of a Greek city",2
 1828,"Gerousia",Institution,Greek,"Council of Elders, senate",2
