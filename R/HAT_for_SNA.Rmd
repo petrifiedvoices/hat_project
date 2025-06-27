@@ -1,0 +1,241 @@
+---
+title: "HAT for SNA exploration"
+author: 
+- Petra Hermankova^[Aarhus University, Denmark, https://orcid.org/0000-0002-6349-0540]
+date: "`r format(Sys.Date())`"
+output:
+  html_document:
+    theme: united
+    toc: yes
+    toc_float: true
+    number_sections: true
+    toc_depth: 3
+    df_print: paged
+---
+
+```{r}
+library(dplyr)
+library(tidyr)
+library(igraph)
+library(tidygraph)
+```
+
+
+# Loading data
+
+```{r}
+inscriptions <- read_csv("../CSV Data Export/Inscription_Info.txt")
+people <- read_csv("../CSV Data Export/Epigraphic_Person.txt")
+names <- read_csv("../CSV Data Export/Personal_Name.txt")
+```
+
+# Connecting the data
+
+```{r}
+# minimal dataset for inscriptions
+inscr <- inscriptions %>% 
+  select(`Record ID`, `Corpus name`, `Corpus ID number`, Geolocation, `Start Year`, `End Year`, `Person >`)
+
+result <- inscr %>%
+  separate_longer_delim(`Person >`, delim = "|") %>%
+  mutate(`Person >` = trimws(`Person >`)) %>%
+  left_join(people %>% mutate(`Record ID` = as.character(`Record ID`)), 
+            by = c("Person >" = "Record ID"))
+
+
+```
+
+```{r}
+# Create a named vector for fast lookup
+name_lookup <- setNames(names$`Personal name`, as.character(names$`Record ID`))
+
+# Create new column with names while keeping original
+result <- result %>%
+  mutate(`Personal name full` = sapply(strsplit(`Personal name`, "\\|"), function(ids) {
+    ids <- trimws(ids)
+    found_names <- name_lookup[ids]
+    paste(found_names[!is.na(found_names)], collapse = " ")
+  }))
+```
+
+```{r}
+library(dplyr)
+
+# Create named vectors for fast lookup
+name_lookup <- setNames(names$`Personal name`, as.character(names$`Record ID`))
+gender_lookup <- setNames(names$Gender, as.character(names$`Record ID`))
+ethnicity_lookup <- setNames(names$Ethnicity, as.character(names$`Record ID`))
+
+# Updated function to process attributes with unique values only
+process_attribute <- function(id_string, lookup_vector) {
+  if (is.na(id_string) || id_string == "") return(NA_character_)
+  
+  ids <- trimws(unlist(strsplit(id_string, "\\|")))
+  values <- lookup_vector[ids]
+  values <- values[!is.na(values)]
+  
+  if (length(values) == 0) return(NA_character_)
+  
+  # Get unique values
+  unique_values <- unique(values)
+  
+  # Return unique values separated by space
+  return(paste(unique_values, collapse = " "))
+}
+
+# Apply to result dataframe
+result <- result %>%
+  mutate(
+    `Personal name full` = sapply(strsplit(`Personal name`, "\\|"), function(ids) {
+      ids <- trimws(ids)
+      found_names <- name_lookup[ids]
+      paste(found_names[!is.na(found_names)], collapse = " ")
+    }),
+    `Gender` = sapply(`Personal name`, process_attribute, lookup_vector = gender_lookup),
+    `Ethnicity` = sapply(`Personal name`, process_attribute, lookup_vector = ethnicity_lookup)
+  )
+```
+
+
+# Visualisation
+Person > attribute in the result is the node, coocurrence on inscriptions is the edge
+```{r}
+# Step 1: Create person-inscription pairs
+person_inscription_pairs <- result %>%
+  # Split the Person > column to get individual persons per inscription
+  separate_longer_delim(`Person >`, delim = "|") %>%
+  mutate(`Person >` = trimws(`Person >`)) %>%
+  # Keep only relevant columns
+  select(`Record ID`, person_id = `Person >`) %>%
+  rename(record_id = `Record ID`) %>% 
+  filter(!is.na(person_id) & person_id != "")
+
+# Step 2: Create co-occurrence matrix
+# Get all pairs of persons who appear together on inscriptions
+cooccurrence_pairs <- person_inscription_pairs %>%
+  # Self-join to find all pairs within each inscription
+  inner_join(person_inscription_pairs, by = 'record_id', suffix = c("_1", "_2")) %>%
+  # Remove self-pairs and duplicate pairs
+  filter(person_id_1 < person_id_2) %>%
+  # Count co-occurrences
+  count(person_id_1, person_id_2, name = "weight") %>%
+  # Rename for clarity
+  rename(from = person_id_1, to = person_id_2)
+
+# Step 3: Create the network graph
+network_graph <- graph_from_data_frame(cooccurrence_pairs, directed = FALSE)
+
+# Step 4: Basic network visualization
+plot(network_graph, 
+     vertex.size = 8,
+     vertex.color = "lightblue",
+     vertex.label.cex = 0.7,
+     edge.width = E(network_graph)$weight,
+     layout = layout_with_fr(network_graph))
+```
+
+```{r}
+# zoom only on those with more than 1 person per inscription
+
+cooccurrence_pairs2 <- cooccurrence_pairs %>% 
+  filter(weight > 1)
+
+network_graph2 <- graph_from_data_frame(cooccurrence_pairs2, directed = FALSE)
+
+plot(network_graph2, 
+     vertex.size = 8,
+     vertex.color = "lightblue",
+     vertex.label.cex = 0.7,
+     edge.width = E(network_graph2)$weight,
+     layout = layout_with_fr(network_graph2))
+
+```
+```{r}
+# Load required libraries
+library(dplyr)
+library(tidyr)
+library(igraph)
+
+# Step 1: Create person-inscription pairs with labels and ethnicity
+person_inscription_pairs <- result %>%
+  # Split the Person > column to get individual persons per inscription
+  separate_longer_delim(`Person >`, delim = "|") %>%
+  mutate(`Person >` = trimws(`Person >`)) %>%
+  rename(record_id = `Record ID`) %>% 
+  # Keep relevant columns including the full names and ethnicity
+  select(record_id, person_id = `Person >`, `Personal name full`, Ethnicity) %>%
+  filter(!is.na(person_id) & person_id != "") 
+
+# Create a lookup table for person attributes
+person_attributes <- person_inscription_pairs %>%
+  select(person_id, `Personal name full`, Ethnicity) %>%
+  distinct() %>%
+  # Handle cases where same person_id might have different attributes
+  group_by(person_id) %>%
+  summarise(
+    `Personal name full` = first(`Personal name full`),
+    Ethnicity = first(Ethnicity),
+    .groups = "drop"
+  )
+
+# Step 2: Create co-occurrence matrix (same as before)
+cooccurrence_pairs <- person_inscription_pairs %>%
+  inner_join(person_inscription_pairs, by = "record_id", suffix = c("_1", "_2")) %>%
+  filter(person_id_1 < person_id_2) %>%
+  count(person_id_1, person_id_2, name = "weight") %>%
+  rename(from = person_id_1, to = person_id_2)
+
+
+# Step 3: Create color palette for ethnicities
+unique_ethnicities <- unique(person_attributes$Ethnicity)
+unique_ethnicities <- unique_ethnicities[!is.na(unique_ethnicities)]
+ethnicity_colors <- rainbow(length(unique_ethnicities))
+names(ethnicity_colors) <- unique_ethnicities
+
+# Add a color for NA values
+ethnicity_colors <- c(ethnicity_colors, "gray50")
+names(ethnicity_colors)[length(ethnicity_colors)] <- NA
+
+# Step 4: Create nodes data frame with all attributes
+nodes <- data.frame(
+  name = person_attributes$person_id,
+  label = person_attributes$`Personal name full`,
+  ethnicity = person_attributes$Ethnicity,
+  color = ethnicity_colors[as.character(person_attributes$Ethnicity)]
+)
+
+# Handle NA ethnicity colors
+nodes$color[is.na(nodes$ethnicity)] <- "gray50"
+
+# Step 5: Create the network graph
+#network_graph3 <- graph_from_data_frame(cooccurrence_pairs3, directed = FALSE)
+
+cooccurrence_pairs3 <- cooccurrence_pairs %>% 
+  filter(weight > 1)
+
+
+network_graph3 <- graph_from_data_frame(cooccurrence_pairs3, 
+                                     vertices = nodes, 
+                                     directed = FALSE)
+
+# Step 6: Basic visualization with ethnicity colors
+plot(network_graph3, 
+     vertex.size = 8,
+     vertex.color = V(network_graph3)$color,
+     vertex.label = V(network_graph3)$label,
+     vertex.label.cex = 0.8,
+     vertex.label.color = "black",
+     edge.width = E(network_graph3)$weight,
+     layout = layout_with_fr(network_graph3),
+     main = "Person Co-occurrence Network (Colored by Ethnicity)")
+
+# Add legend
+legend("topright", 
+       legend = names(ethnicity_colors), 
+       fill = ethnicity_colors, 
+       title = "Ethnicity",
+       cex = 0.8)
+```
+
+
+
